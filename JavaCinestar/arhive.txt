@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<moviearchive>
+    <movies>
+        <movie id="2100">
+            <title>Candyman</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Oscarom nagrađeni Jordan Peele na velika platna donosi remake strašne urbane legende o Candymanu. Umjetnik otkriva legendu te koristi priče o Candymanu kao svoju inspiraciju za slikanje, no polagano gubi razum te na svom putu susreće smrt i destrukciju.
+
+Universal Pictures i Metro Goldwyn Mayer Pictures u suradnji s BRON Creative i producentskom kućom Jordana Peele Monkeypaw predstavljaju film koji je baziran na kultnom hororu iz 1992 – Candyman te kratkoj priči Clive Bakera – The Forbidden.
+
+Redateljsku palicu preuzela je mlada redateljska zvijezda u usponu Nia DaCosta koja je zajedno s Jordanom Peleeom napisala i scenarij. 
+
+Glumačku postavu predvode Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett te Colman Domingo.
+</description>
+            <origtitle>Candyman</origtitle>
+            <duration>91</duration>
+            <year>2021</year>
+            <poster>assets\b1f070ea-21ca-4189-b3ab-a7683c985165.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>CANDYMAN HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2101">
+            <title>Escape Room 2: Bez izlaza</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Escape Room 2: Bez izlaza nastavak je velikog kino hita i psihološki triler koji je prestravio publiku diljem svijeta. U ovom dijelu, šestero se ljudi nehotice nađe zatvoreno u drugoj seriji soba za bijeg, polako otkrivajući ono što im je zajedničko za preživljavanje. Udružujući snage s dvoje izvorno preživjelih, ubrzo otkrivaju da su svi već igrali ovu igru.</description>
+            <origtitle>Escape Room: Tournament of Champions</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\52fcf1f3-ef70-4728-91f5-c0740c66a594.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>ESCAPE ROOM 2 HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2102">
+            <title>Free Guy</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <origtitle>Free Guy</origtitle>
+            <duration>115</duration>
+            <year>2020</year>
+            <poster>assets\fa77f10a-1997-49bc-908f-9f3ad5495346.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>FREEGUY  HR novi.mp4</trailer>
+            <genre id="257" name="akcija, komedija"/>
+        </movie>
+        <movie id="2103">
+            <title>Kraljice kupona</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Radnja je temeljena na istinitoj priči o najvećoj prevari krivotvorenim kuponima u povijesti SAD-a. Kristen Bell je u ulozi nezadovoljne domaćice iz prigradskog naselja koja radi na „poduzetničkom” projektu osnivanja ilegalnog kluba s kuponima kojim ona i njezini partneri varaju velike prehrambene i ostale kompanije, dok štede milijune dolara članovima kluba. 
+</description>
+            <origtitle>Queenpins</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\fef390e4-9dd5-4d1f-8173-8913b1be6629.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>QUEENPINS HRV 720.mp4</trailer>
+            <genre id="258" name="komedija"/>
+        </movie>
+        <movie id="2104">
+            <title>Krstarenje džunglom</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevjerojatnim ljekovitim svojstvima koje imaju moć promijeniti budućnosti medicine. U svojoj potrazi, ovaj dvojac će se susresti s bezbroj opasnosti i natprirodnih sila u varljivoj ljepoti bujne prašume. 
+</description>
+            <origtitle>Jungle Cruise</origtitle>
+            <duration>127</duration>
+            <year>2020</year>
+            <poster>assets\33393776-7599-4d9a-8bca-d595af892ed5.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>JUNGLECRUISE HR novi.mp4</trailer>
+            <genre id="259" name="akcija, avantura, komedija"/>
+        </movie>
+        <movie id="2105">
+            <title>Kuća noćnih mora</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Oporavljajući se od neočekivane smrti supruga, Beth (Rebecca Hall) ostaje sama u domu na jezeru koji joj je sagradio. Pokušava se tamo pribrati i ponovo započeti život bez njega - ali tada kreće prava noćna mora. Uznemirujuće vizije je mame sablasnom privlačnošću. Suprotno savjetima svojih prijatelja, Beth počinje kopati po suprugovim stvarima, žudeći za odgovorima. Ono što nalazi su tajne i čudne i uznemirujuće - misterij koji je odlučna otkriti. 
+</description>
+            <origtitle>Night House</origtitle>
+            <duration>107</duration>
+            <year>2021</year>
+            <poster>assets\e009066f-f193-435e-9386-c5f64ac6d8c5.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>NIGHT HOUSE HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2106">
+            <title>Murina</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Napeti odnos šesnaestogodišnje Julije i autoritativnog oca Ante počinje pucati kada u njihov dom na otoku stigne stari obiteljski prijatelj. Dok je otac zaokupljen pokušajima da s njim sklopi posao života, karizmatični gost Juliji otvara sve više prostora slobode što u njoj budi revolt prema roditeljima. Tijekom vikenda ispunjenog velikim očekivanjima, Julija uvlači obitelj u opasni vrtlog strasti i nasilja. Za film Murina redateljica Antoneta Alamat Kusijanović nagrađena je na Filmskom festivalu u Cannesu Zlatnom kamerom (Camera d’Or) kao najbolji debitant, a na Pulskom filmskom festivalu film je osvojio nagradu publike, Danica Ćurčić nagrađena je Zlatnom arenom za najbolju žensku ulogu te Antoneta Alamat Kusijanović Brezom za najboljeg debitanta.</description>
+            <origtitle>Murina</origtitle>
+            <duration>92</duration>
+            <year>2021</year>
+            <poster>assets\a4b0fe3f-ddb1-4d41-a68c-dc2795a95e7f.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>MURINA HR.mp4</trailer>
+            <genre id="260" name="drama"/>
+        </movie>
+        <movie id="2107">
+            <title>Odred otpisanih: Nova misija</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Dobrodošli u pakao - a.k.a. Belle Reve, zatvor s najvišom stopom smrtnosti u SAD-u. Gdje se drže najgori super-negativci koji će učiniti sve da izađu - čak i pridružiti se supertajnoj, super-mračnoj misiji. Današnji tko preživi pričat će zadatak je okupiti Bloodsporta, Peacemakera, Captaina Boomeranga, Ratcatchera 2, Savanta, King Sharka, Blackguarda, Javelin i svima omiljenu Harley Quinna, naoružati ih i baciti (doslovno) na udaljeni, neprijateljski otok Corto Maltese. Kao i do sada, jedan njihov pogrešan potez i mrtvi su (bilo od ruku svojih protivnika, suigrača ili Waller). 
+</description>
+            <origtitle>The Suicide Squad</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\3296c4e8-19cd-44c6-a39c-63f1007bd051.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>SUICIDE SQUAD HR.mp4</trailer>
+            <genre id="261" name="akcija, avantura"/>
+        </movie>
+        <movie id="2108">
+            <title>Petar Zecimir: Skok u avanturu - sink</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Neko vrijeme je prošlo otkako su Petar Zecimir i Tomica zakopali ratnu sjekiru, barem prividno. Biba, Tomica i zečevi osnovali su improviziranu obitelj, ali unatoč svim nastojanjima, Petar nikako da se riješi svoje nestašne reputacije. Tražeći avanturu izvan sigurnosti vlastitog vrta, Zecimir otkriva cijeli novi svijet u kojemu se njegovi nestašluci cijene, ali u trenutku kada njegova obitelj odluči sve riskirati kako bi ga pronašla, Petar mora odlučiti kakav zec želi biti.</description>
+            <origtitle>Peter Rabbit 2: The Runaway</origtitle>
+            <duration>93</duration>
+            <year>2021</year>
+            <poster>assets\d3e41fbd-bc30-47f2-86a2-155340529a85.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>PETER RABBIT 2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2109">
+            <title>Plaćenica</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Anna (Maggie Q) je najvještiji plaćeni ubojica na svijetu - kao dijete ju je spasio legendarni Moody (Samuel L. Jackson) i polako učio „obiteljskom poslu”. Kada čovjeka koji joj je bio poput oca i koji ju je naučio svemu što treba znati o povjerenju i preživljavanju brutalno ubiju, Anna se zavjetuje na osvetu. 
+</description>
+            <origtitle>The Protege</origtitle>
+            <duration>109</duration>
+            <year>2021</year>
+            <poster>assets\9fc81154-01a7-4ca2-8242-9c7cb34ae890.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>PROTEGE HRV 720.mp4</trailer>
+            <genre id="263" name="akcija, triler"/>
+        </movie>
+        <movie id="2110">
+            <title>Poslije svega: Pad</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, ali sad su dospjeli u fazu u kojoj se izlaz ne nazire. Upravo dok se Tessa sprema donijeti jednu od važnijih odluka u životu, sve se promijeni. Hardin se još uvijek ne zna kontrolirati i sve oko nje počinje se raspadati. 
+Nikome ne može vjerovati, nitko nije onakav kakav se čini. 
+Ni obitelj, ni prijatelji.
+</description>
+            <origtitle>After We Fell</origtitle>
+            <duration>98</duration>
+            <year>2021</year>
+            <poster>assets\bc01de70-fc34-456d-a7f4-7fcb73ac955f.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>AFTER WE FELL B HRV 720.mp4</trailer>
+            <genre id="264" name="ljubavna drama"/>
+        </movie>
+        <movie id="2111">
+            <title>Psići u ophodnji: Film - sink</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Psići prvi put napuštaju Adventure Bay - uvodeći nas u novi svijet Adventure Cityja. Kad psići saznaju da je Humdinger postao gradonačelnik prometne metropole, kreću u akciju kako bi spasili grad od njegove sebičnosti. Uz nove lokacije, smiješne, nove likove, ludu akciju, ova poznata CG animacija je savršen film za zajedničko uživanje najmlađih, ali i cijele obitelji.
+</description>
+            <origtitle>Paw Patrol: The Movie</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\6258c3ff-eedb-4308-908f-28f411c237fe.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>PAW PATROL HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2112">
+            <title>Putovanje kroz sjećanja</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Nick Bannister (Hugh Jackman), privatni istražitelj uma, kreće se primamljivim ali mračnim svijetom prošlosti pomažući svojim klijentima da pristupe izgubljenim uspomenama. Živeći na rubu potonule obale Miamija, život mu se zauvijek mijenja kada preuzme novu klijenticu Mae (Rebecca Ferguson). Jednostavno pitanje izgubljenog i pronađenog postaje opasna opsesija. Dok se Bannister bori da pronađe istinu o Maeinom nestanku, otkriva nevjerojatnu zavjeru i na kraju mora odgovoriti na pitanje:  koliko daleko biste išli da zadržite one koje volite?
+</description>
+            <origtitle>Reminiscence</origtitle>
+            <duration>116</duration>
+            <year>2021</year>
+            <poster>assets\6cd12648-7eb6-4f15-946f-0993e0c5b27f.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>REMINISCENCE HR.mp4</trailer>
+            <genre id="265" name="SF, avantura, misterij"/>
+        </movie>
+        <movie id="2113">
+            <title>Respect</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ove godine u kina nam stiže priča o jednoj od najvećih pjevačica svih vremena Arethi Franklin. R&amp;B pjevačicu glumi dobitnica nagrade Oscar, Jennifer Hudson, koju je Aretha osobno izabrala za tu ulogu.</description>
+            <origtitle>Respect</origtitle>
+            <duration>145</duration>
+            <year>2021</year>
+            <poster>assets\ca514a92-42ab-4887-87e1-8061aadc6f3a.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>RESPECT HR.mp4</trailer>
+            <genre id="266" name="biografski, drama"/>
+        </movie>
+        <movie id="2114">
+            <title>Shang-Chi i legenda o deset prstenova</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Ekipa studija Marvel predstavlja još jedan superherojski akcijski spektakl o majstoru Kung fua čiji je otac član zloglasne organizacije Deset Prstenova koju smo upoznali kroz ranije Marvelove filmove.
+
+Od djetinjstva obučavan za majstora borilačkih vještina, Shang-Chi je prisiljen suočiti se s prošlošću za koju je mislio da je ostavio za sobom. 
+U svijetu se u međuvremenu pojavila nova velika prijetnja, a  Shang-Chi je ponovno uvučen u mrežu svog oca, šefa tajanstvene organizacije Deset prstenova koja se skrivala u sjeni MCU od samog početka.
+
+ </description>
+            <origtitle>Shang-Chi and the Legend of the Ten Rings</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\465b6e5c-31bf-43c3-b687-0a828e645fb8.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>SHANG-CHI HRV 720.mp4</trailer>
+            <genre id="267" name="akcija, avantura, SF"/>
+        </movie>
+        <movie id="2115">
+            <title>Zloćudno</title>
+            <pubdate>2021-09-09T00:00:00</pubdate>
+            <description>Madison je paralizirana šokantnim vizijama užasnih ubojstava, a njezina se muka pogoršava kad otkrije da su ti snovi zapravo zastrašujuća stvarnost.
+
+Tijekom djetinjstva Madison je bila hospitalizirana zbog uznapredovale bolesti. Dok boravi u bolnici bude posvojena te nastavlja živjeti normalnim životom. Nekoliko desetljeća kasnije Madison ima svoju obitelj. Trauma koju je doživjela jedne večeri naglo pogorša stanje.
+
+Jako sam uzbuđen oko ovog filma. Ne mogu to niti opisati. Htio sam napraviti nešto žanrovski originalno, i drugačije od mojih prijašnjih radova, a opet da bude u duhu horor trilera uz koje sam odrastao, izjavio je redatelj. 
+</description>
+            <origtitle>Malignant</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\be992b9e-920b-428e-ad16-08eca15bb36a.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>09.09.2021</date>
+            <trailer>MALIGNANT HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2116">
+            <title>Avanture obitelji Bigfoot - sink</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Nekoliko mjeseci nakon njihovog ponovnog susreta, životinje i ljudi žive sretno, a Adam se polako navikava na svoje nove moći. Sve dok ih njegov otac ponovo ne odluči napustiti kako bi spasio dolinu prljavih poslova naftne tvrtke X Tract. Shelly, Adam, Wilbur i Trapper odluče krenuti za njim i istražiti što se zapravo tamo događa ..</description>
+            <origtitle>Bigfoot Family</origtitle>
+            <duration>89</duration>
+            <year>2020</year>
+            <poster>assets\2e7d025b-e70a-4b83-bf7c-fdef7463b847.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>BIGFOOT FAMILY HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2117">
+            <title>Candyman</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Oscarom nagrađeni Jordan Peele na velika platna donosi remake strašne urbane legende o Candymanu. Umjetnik otkriva legendu te koristi priče o Candymanu kao svoju inspiraciju za slikanje, no polagano gubi razum te na svom putu susreće smrt i destrukciju.
+
+Universal Pictures i Metro Goldwyn Mayer Pictures u suradnji s BRON Creative i producentskom kućom Jordana Peele Monkeypaw predstavljaju film koji je baziran na kultnom hororu iz 1992 – Candyman te kratkoj priči Clive Bakera – The Forbidden.
+
+Redateljsku palicu preuzela je mlada redateljska zvijezda u usponu Nia DaCosta koja je zajedno s Jordanom Peleeom napisala i scenarij. 
+
+Glumačku postavu predvode Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett te Colman Domingo.
+</description>
+            <origtitle>Candyman</origtitle>
+            <duration>91</duration>
+            <year>2021</year>
+            <poster>assets\83a7a763-eb03-49a9-82c4-cac2e3007e9f.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>CANDYMAN HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2118">
+            <title>Escape Room 2: Bez izlaza</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Escape Room 2: Bez izlaza nastavak je velikog kino hita i psihološki triler koji je prestravio publiku diljem svijeta. U ovom dijelu, šestero se ljudi nehotice nađe zatvoreno u drugoj seriji soba za bijeg, polako otkrivajući ono što im je zajedničko za preživljavanje. Udružujući snage s dvoje izvorno preživjelih, ubrzo otkrivaju da su svi već igrali ovu igru.</description>
+            <origtitle>Escape Room: Tournament of Champions</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\b7be07c9-fb78-46f8-b13f-1c5335bb5884.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>ESCAPE ROOM 2 HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2119">
+            <title>Free Guy</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <origtitle>Free Guy</origtitle>
+            <duration>115</duration>
+            <year>2020</year>
+            <poster>assets\4f3938f7-7cfe-4697-b301-6c32d2702e4f.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>FREEGUY  HR novi.mp4</trailer>
+            <genre id="257" name="akcija, komedija"/>
+        </movie>
+        <movie id="2120">
+            <title>Kraljice kupona</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Radnja je temeljena na istinitoj priči o najvećoj prevari krivotvorenim kuponima u povijesti SAD-a. Kristen Bell je u ulozi nezadovoljne domaćice iz prigradskog naselja koja radi na „poduzetničkom” projektu osnivanja ilegalnog kluba s kuponima kojim ona i njezini partneri varaju velike prehrambene i ostale kompanije, dok štede milijune dolara članovima kluba. 
+</description>
+            <origtitle>Queenpins</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\836b9bfc-1c6f-444e-8547-90c00e0ed068.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>QUEENPINS HRV 720.mp4</trailer>
+            <genre id="258" name="komedija"/>
+        </movie>
+        <movie id="2121">
+            <title>Krstarenje džunglom</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevjerojatnim ljekovitim svojstvima koje imaju moć promijeniti budućnosti medicine. U svojoj potrazi, ovaj dvojac će se susresti s bezbroj opasnosti i natprirodnih sila u varljivoj ljepoti bujne prašume. 
+</description>
+            <origtitle>Jungle Cruise</origtitle>
+            <duration>127</duration>
+            <year>2020</year>
+            <poster>assets\135d76f8-1d62-4e4c-9f4b-5f7dc943dbcb.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>JUNGLECRUISE HR novi.mp4</trailer>
+            <genre id="259" name="akcija, avantura, komedija"/>
+        </movie>
+        <movie id="2122">
+            <title>Kuća noćnih mora</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Oporavljajući se od neočekivane smrti supruga, Beth (Rebecca Hall) ostaje sama u domu na jezeru koji joj je sagradio. Pokušava se tamo pribrati i ponovo započeti život bez njega - ali tada kreće prava noćna mora. Uznemirujuće vizije je mame sablasnom privlačnošću. Suprotno savjetima svojih prijatelja, Beth počinje kopati po suprugovim stvarima, žudeći za odgovorima. Ono što nalazi su tajne i čudne i uznemirujuće - misterij koji je odlučna otkriti. 
+</description>
+            <origtitle>Night House</origtitle>
+            <duration>107</duration>
+            <year>2021</year>
+            <poster>assets\b368a9fb-2314-469f-95a0-2b65334db3f5.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>NIGHT HOUSE HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2123">
+            <title>Murina</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Napeti odnos šesnaestogodišnje Julije i autoritativnog oca Ante počinje pucati kada u njihov dom na otoku stigne stari obiteljski prijatelj. Dok je otac zaokupljen pokušajima da s njim sklopi posao života, karizmatični gost Juliji otvara sve više prostora slobode što u njoj budi revolt prema roditeljima. Tijekom vikenda ispunjenog velikim očekivanjima, Julija uvlači obitelj u opasni vrtlog strasti i nasilja. Za film Murina redateljica Antoneta Alamat Kusijanović nagrađena je na Filmskom festivalu u Cannesu Zlatnom kamerom (Camera d’Or) kao najbolji debitant, a na Pulskom filmskom festivalu film je osvojio nagradu publike, Danica Ćurčić nagrađena je Zlatnom arenom za najbolju žensku ulogu te Antoneta Alamat Kusijanović Brezom za najboljeg debitanta.</description>
+            <origtitle>Murina</origtitle>
+            <duration>92</duration>
+            <year>2021</year>
+            <poster>assets\0ee17178-3b9c-4ff5-a80c-05be388f63d0.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>MURINA HR.mp4</trailer>
+            <genre id="260" name="drama"/>
+        </movie>
+        <movie id="2124">
+            <title>Odred otpisanih: Nova misija</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Dobrodošli u pakao - a.k.a. Belle Reve, zatvor s najvišom stopom smrtnosti u SAD-u. Gdje se drže najgori super-negativci koji će učiniti sve da izađu - čak i pridružiti se supertajnoj, super-mračnoj misiji. Današnji tko preživi pričat će zadatak je okupiti Bloodsporta, Peacemakera, Captaina Boomeranga, Ratcatchera 2, Savanta, King Sharka, Blackguarda, Javelin i svima omiljenu Harley Quinna, naoružati ih i baciti (doslovno) na udaljeni, neprijateljski otok Corto Maltese. Kao i do sada, jedan njihov pogrešan potez i mrtvi su (bilo od ruku svojih protivnika, suigrača ili Waller). 
+</description>
+            <origtitle>The Suicide Squad</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\58f66672-d171-4465-93a4-5b6afe032747.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>SUICIDE SQUAD HR.mp4</trailer>
+            <genre id="261" name="akcija, avantura"/>
+        </movie>
+        <movie id="2125">
+            <title>Petar Zecimir: Skok u avanturu - sink</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Neko vrijeme je prošlo otkako su Petar Zecimir i Tomica zakopali ratnu sjekiru, barem prividno. Biba, Tomica i zečevi osnovali su improviziranu obitelj, ali unatoč svim nastojanjima, Petar nikako da se riješi svoje nestašne reputacije. Tražeći avanturu izvan sigurnosti vlastitog vrta, Zecimir otkriva cijeli novi svijet u kojemu se njegovi nestašluci cijene, ali u trenutku kada njegova obitelj odluči sve riskirati kako bi ga pronašla, Petar mora odlučiti kakav zec želi biti.</description>
+            <origtitle>Peter Rabbit 2: The Runaway</origtitle>
+            <duration>93</duration>
+            <year>2021</year>
+            <poster>assets\ef20aba4-7855-483d-8b83-5507d9045960.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>PETER RABBIT 2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2126">
+            <title>Plaćenica</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Anna (Maggie Q) je najvještiji plaćeni ubojica na svijetu - kao dijete ju je spasio legendarni Moody (Samuel L. Jackson) i polako učio „obiteljskom poslu”. Kada čovjeka koji joj je bio poput oca i koji ju je naučio svemu što treba znati o povjerenju i preživljavanju brutalno ubiju, Anna se zavjetuje na osvetu. 
+</description>
+            <origtitle>The Protege</origtitle>
+            <duration>109</duration>
+            <year>2021</year>
+            <poster>assets\77729352-dcb5-4880-b593-0d8a4c342280.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>PROTEGE HRV 720.mp4</trailer>
+            <genre id="263" name="akcija, triler"/>
+        </movie>
+        <movie id="2127">
+            <title>Poslije svega: Pad</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, ali sad su dospjeli u fazu u kojoj se izlaz ne nazire. Upravo dok se Tessa sprema donijeti jednu od važnijih odluka u životu, sve se promijeni. Hardin se još uvijek ne zna kontrolirati i sve oko nje počinje se raspadati. 
+Nikome ne može vjerovati, nitko nije onakav kakav se čini. 
+Ni obitelj, ni prijatelji.
+</description>
+            <origtitle>After We Fell</origtitle>
+            <duration>98</duration>
+            <year>2021</year>
+            <poster>assets\ff26a53f-1352-4d94-bce2-95c95f018fa2.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>AFTER WE FELL B HRV 720.mp4</trailer>
+            <genre id="264" name="ljubavna drama"/>
+        </movie>
+        <movie id="2128">
+            <title>Psići u ophodnji: Film - sink</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Psići prvi put napuštaju Adventure Bay - uvodeći nas u novi svijet Adventure Cityja. Kad psići saznaju da je Humdinger postao gradonačelnik prometne metropole, kreću u akciju kako bi spasili grad od njegove sebičnosti. Uz nove lokacije, smiješne, nove likove, ludu akciju, ova poznata CG animacija je savršen film za zajedničko uživanje najmlađih, ali i cijele obitelji.
+</description>
+            <origtitle>Paw Patrol: The Movie</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\421e190f-9c4c-4647-9d0d-ab30665d63a7.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>PAW PATROL HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2129">
+            <title>Putovanje kroz sjećanja</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Nick Bannister (Hugh Jackman), privatni istražitelj uma, kreće se primamljivim ali mračnim svijetom prošlosti pomažući svojim klijentima da pristupe izgubljenim uspomenama. Živeći na rubu potonule obale Miamija, život mu se zauvijek mijenja kada preuzme novu klijenticu Mae (Rebecca Ferguson). Jednostavno pitanje izgubljenog i pronađenog postaje opasna opsesija. Dok se Bannister bori da pronađe istinu o Maeinom nestanku, otkriva nevjerojatnu zavjeru i na kraju mora odgovoriti na pitanje:  koliko daleko biste išli da zadržite one koje volite?
+</description>
+            <origtitle>Reminiscence</origtitle>
+            <duration>116</duration>
+            <year>2021</year>
+            <poster>assets\e4294008-0478-40c5-857a-67bc3ef874ea.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>REMINISCENCE HR.mp4</trailer>
+            <genre id="265" name="SF, avantura, misterij"/>
+        </movie>
+        <movie id="2130">
+            <title>Respect</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ove godine u kina nam stiže priča o jednoj od najvećih pjevačica svih vremena Arethi Franklin. R&amp;B pjevačicu glumi dobitnica nagrade Oscar, Jennifer Hudson, koju je Aretha osobno izabrala za tu ulogu.</description>
+            <origtitle>Respect</origtitle>
+            <duration>145</duration>
+            <year>2021</year>
+            <poster>assets\f7611919-0c48-4bc9-bfba-9a1b5841b4de.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>RESPECT HR.mp4</trailer>
+            <genre id="266" name="biografski, drama"/>
+        </movie>
+        <movie id="2131">
+            <title>Shang-Chi i legenda o deset prstenova</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Ekipa studija Marvel predstavlja još jedan superherojski akcijski spektakl o majstoru Kung fua čiji je otac član zloglasne organizacije Deset Prstenova koju smo upoznali kroz ranije Marvelove filmove.
+
+Od djetinjstva obučavan za majstora borilačkih vještina, Shang-Chi je prisiljen suočiti se s prošlošću za koju je mislio da je ostavio za sobom. 
+U svijetu se u međuvremenu pojavila nova velika prijetnja, a  Shang-Chi je ponovno uvučen u mrežu svog oca, šefa tajanstvene organizacije Deset prstenova koja se skrivala u sjeni MCU od samog početka.
+
+ </description>
+            <origtitle>Shang-Chi and the Legend of the Ten Rings</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\89f55334-0695-4804-a738-a77ed92d1cac.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>SHANG-CHI HRV 720.mp4</trailer>
+            <genre id="267" name="akcija, avantura, SF"/>
+        </movie>
+        <movie id="2132">
+            <title>Zloćudno</title>
+            <pubdate>2021-09-10T00:00:00</pubdate>
+            <description>Madison je paralizirana šokantnim vizijama užasnih ubojstava, a njezina se muka pogoršava kad otkrije da su ti snovi zapravo zastrašujuća stvarnost.
+
+Tijekom djetinjstva Madison je bila hospitalizirana zbog uznapredovale bolesti. Dok boravi u bolnici bude posvojena te nastavlja živjeti normalnim životom. Nekoliko desetljeća kasnije Madison ima svoju obitelj. Trauma koju je doživjela jedne večeri naglo pogorša stanje.
+
+Jako sam uzbuđen oko ovog filma. Ne mogu to niti opisati. Htio sam napraviti nešto žanrovski originalno, i drugačije od mojih prijašnjih radova, a opet da bude u duhu horor trilera uz koje sam odrastao, izjavio je redatelj. 
+</description>
+            <origtitle>Malignant</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\877e0b2e-2876-4c13-a4cb-92629dff9bbe.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>10.09.2021</date>
+            <trailer>MALIGNANT HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2133">
+            <title>Ainbo: Dobri duh Amazone - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Ainbo je priča o djevojčici koja se rodila i odrasla u najdubljoj džungli Amazone u selu Colonia. Jednog dana otkrije da je njezina zemlja ugrožena i shvati da na svijetu postoje i drugi ljudi, osim njezinih. Koristeći pomoć svojih duhovnih vodiča, kreće na put tražeći pomoć od najmoćnije Majke Duha Amazone, Kornjače "Motelo Mama". Vođena njezinim savjetima, Ainbo je odlučna spasiti svoj raj od pohlepne i prekomjerne sječe stabala te ilegalnog iskopavanja i spasiti svoje ljude prije nego što bude prekasno. 
+</description>
+            <origtitle>Ainbo</origtitle>
+            <duration>84</duration>
+            <year>2021</year>
+            <poster>assets\2129c187-c5e1-4273-97fc-9e422399dd1a.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>AINBO HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2134">
+            <title>Avanture obitelji Bigfoot - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Nekoliko mjeseci nakon njihovog ponovnog susreta, životinje i ljudi žive sretno, a Adam se polako navikava na svoje nove moći. Sve dok ih njegov otac ponovo ne odluči napustiti kako bi spasio dolinu prljavih poslova naftne tvrtke X Tract. Shelly, Adam, Wilbur i Trapper odluče krenuti za njim i istražiti što se zapravo tamo događa ..</description>
+            <origtitle>Bigfoot Family</origtitle>
+            <duration>89</duration>
+            <year>2020</year>
+            <poster>assets\1bf7fe8b-2662-47a0-bd4e-3d009caf6c49.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>BIGFOOT FAMILY HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2135">
+            <title>Candyman</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Oscarom nagrađeni Jordan Peele na velika platna donosi remake strašne urbane legende o Candymanu. Umjetnik otkriva legendu te koristi priče o Candymanu kao svoju inspiraciju za slikanje, no polagano gubi razum te na svom putu susreće smrt i destrukciju.
+
+Universal Pictures i Metro Goldwyn Mayer Pictures u suradnji s BRON Creative i producentskom kućom Jordana Peele Monkeypaw predstavljaju film koji je baziran na kultnom hororu iz 1992 – Candyman te kratkoj priči Clive Bakera – The Forbidden.
+
+Redateljsku palicu preuzela je mlada redateljska zvijezda u usponu Nia DaCosta koja je zajedno s Jordanom Peleeom napisala i scenarij. 
+
+Glumačku postavu predvode Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett te Colman Domingo.
+</description>
+            <origtitle>Candyman</origtitle>
+            <duration>91</duration>
+            <year>2021</year>
+            <poster>assets\72b7aae5-7b60-48d2-bcf1-14a596727a07.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>CANDYMAN HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2136">
+            <title>Croods: Novo doba - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Nakon sedam godina omiljena prahistorijska obitelj, Croods, se vraća na velika platna. Do sad su se susreli s mnogobrojnim nedaćama i opasnostima, ali na ono što ih čeka nikako se nisu mogli pripremiti. Naime srest će drugu obitelj koja je puno naprednija od njih. 
+Animiranu avanturu režirao je Joel Crafword koji je i sam glumio u mnogim animiranim filmovima studija DreamWorks, a producent je Mark Swift.
+
+Croodsi traže novo mjesto za život te putuju svijetom u potrazi za sigurnijim mjestom za svoj dom. U svojoj potrazi nailaze na idilično mjesto okruženo zidinama i s jako puno hrane. No tamo nailaze i na novu, puno napredniju obitelj, koja ih se želi riješiti što prije.
+Nova obitelj je daleko razvijenija od Croodsa, žive u kući na drvetu, znaju uzgajati hranu, imaju WC, lift i mnoge druge izume koje Croodi nisu nikada vidjeli. 
+No neočekivani obrat natjerat će obje obitelji da surađuju i krenu na pustolovinu života s druge strane zidina. Na tom putu će shvatiti da ih ipak veže puno stvari te da mogu premostiti razlike koje ih razdvajaju.
+</description>
+            <origtitle>The Croods: A New Age</origtitle>
+            <duration>95</duration>
+            <year>2020</year>
+            <poster>assets\56b09929-b16b-4823-a737-48c68d99411a.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>CROODS  2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2137">
+            <title>Čarobni prolaz - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Uzbudljiva i živopisna avantura odvest će vašu obitelj u morske dubine, u krajolike očaravajuće ljepote, ali i velike opasnosti. Priča prati mladog dupina bujne mašte i njegovog najboljeg prijatelja koji neprestano otkrivaju nova mjesta za istraživanje - pronalaze brojne čarobne predmete, za koje nitko ne vjeruje da su zapravo stvarni. Jednog dana otkriju čarobni prolaz koji ih može pretvoriti u ono što žele postati. Nažalost, jegulje su otkrile njihovu tajnu i odlučili su prolaz iskoristiti za preuzimanje Ribljeg grada. Kako priča napreduje, dupini se moraju utrkivati s vremenom kako bi spasili svoj grad. S nizom ljupkih detalja, odličnim glumcima koji su sinkronizirali film i, dakako, savršenom najmodernijom tehnikom animacije, ovaj film pravo je uživanje za oči i osjećaje. 
+</description>
+            <origtitle>Magic Arch</origtitle>
+            <duration>84</duration>
+            <year>2020</year>
+            <poster>assets\770acb5d-531c-4bf4-9dd8-d6ca4eae8f2f.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>MAGIC ARCH HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2138">
+            <title>Divlji Spirit - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>&lt;p class="Tijelo" style="text-align:justify"&gt;&lt;span style="font-family:arial,sans-serif"&gt;Lucky Prescott nije upoznala svoju pokojnu majku Milagro Navarro, neustrašivu jahačicu kaskaderku iz Miradera, malog grada na Divljem zapadu. Poput svoje majke, Lucky ne mari puno za pravila i ograničenja, čime svojoj teti Cori zadaje puno briga. Lucky je odrasla u gradu na istočnoj obali pod Corinim budnim okom, ali kad pretjera s opasnim nestašlucima, Cora odluči da se presele u Miradero, gdje živi Luckyin otac Jim.
+
+</description>
+            <origtitle>Spirit Untamed</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\e51c3ae8-4791-47f7-9865-d4179aa46b9a.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>Spirit untamed HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2139">
+            <title>Escape Room 2: Bez izlaza</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Escape Room 2: Bez izlaza nastavak je velikog kino hita i psihološki triler koji je prestravio publiku diljem svijeta. U ovom dijelu, šestero se ljudi nehotice nađe zatvoreno u drugoj seriji soba za bijeg, polako otkrivajući ono što im je zajedničko za preživljavanje. Udružujući snage s dvoje izvorno preživjelih, ubrzo otkrivaju da su svi već igrali ovu igru.</description>
+            <origtitle>Escape Room: Tournament of Champions</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\c5d40bc4-2cd7-419d-9058-2f7bff78416b.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>ESCAPE ROOM 2 HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2140">
+            <title>Free Guy</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <origtitle>Free Guy</origtitle>
+            <duration>115</duration>
+            <year>2020</year>
+            <poster>assets\7b39da05-e22d-4303-b76d-8354a7a2a07a.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>FREEGUY  HR novi.mp4</trailer>
+            <genre id="257" name="akcija, komedija"/>
+        </movie>
+        <movie id="2141">
+            <title>Kraljice kupona</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Radnja je temeljena na istinitoj priči o najvećoj prevari krivotvorenim kuponima u povijesti SAD-a. Kristen Bell je u ulozi nezadovoljne domaćice iz prigradskog naselja koja radi na „poduzetničkom” projektu osnivanja ilegalnog kluba s kuponima kojim ona i njezini partneri varaju velike prehrambene i ostale kompanije, dok štede milijune dolara članovima kluba. 
+</description>
+            <origtitle>Queenpins</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\d7f09e19-fec9-4225-bbd6-b0a81cd96d81.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>QUEENPINS HRV 720.mp4</trailer>
+            <genre id="258" name="komedija"/>
+        </movie>
+        <movie id="2142">
+            <title>Krstarenje džunglom</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevjerojatnim ljekovitim svojstvima koje imaju moć promijeniti budućnosti medicine. U svojoj potrazi, ovaj dvojac će se susresti s bezbroj opasnosti i natprirodnih sila u varljivoj ljepoti bujne prašume. 
+</description>
+            <origtitle>Jungle Cruise</origtitle>
+            <duration>127</duration>
+            <year>2020</year>
+            <poster>assets\5d848e74-2bde-40f0-96c4-89671f061ab3.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>JUNGLECRUISE HR novi.mp4</trailer>
+            <genre id="259" name="akcija, avantura, komedija"/>
+        </movie>
+        <movie id="2143">
+            <title>Kuća noćnih mora</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Oporavljajući se od neočekivane smrti supruga, Beth (Rebecca Hall) ostaje sama u domu na jezeru koji joj je sagradio. Pokušava se tamo pribrati i ponovo započeti život bez njega - ali tada kreće prava noćna mora. Uznemirujuće vizije je mame sablasnom privlačnošću. Suprotno savjetima svojih prijatelja, Beth počinje kopati po suprugovim stvarima, žudeći za odgovorima. Ono što nalazi su tajne i čudne i uznemirujuće - misterij koji je odlučna otkriti. 
+</description>
+            <origtitle>Night House</origtitle>
+            <duration>107</duration>
+            <year>2021</year>
+            <poster>assets\2a029af0-eba0-4078-bbef-d415c397be35.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>NIGHT HOUSE HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2144">
+            <title>Kućni ljubimci na tajnom zadatku - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Roger je pas lutalica koji brine o napuštenim životinjama Robo Citya tako što krade hranu od bogatih i donosi je manje bogatim životinjama. Prilikom jedne takve krađe on upozna Belle, bogatu i razmaženu mačku te njih dvoje odmah upadnu u klasičnu pas-mačka svađu. Za to vrijeme roboti preuzimaju Robo City, a u tome im i pomaže gradonačelnik koji želi protjerati sve druge stanovnike grada. Roger i Belle bježeći pred robotima susreću brojne druge životinje koje su vlasnici zaboravili prilikom bijega, te shvaćaju da se unatoč svojim različitostima moraju osloniti jedni na druge kako bi preživjeli.
+</description>
+            <origtitle>Pets United</origtitle>
+            <duration>92</duration>
+            <year>2020</year>
+            <poster>assets\0cbfd5d3-0f0b-43b5-b58a-9accefd28a55.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>PETS UNITED HRV 720 novi.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2145">
+            <title>Luka - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Mladi dečko Luka doživljava nezaboravno ljeto na talijanskoj rivijeri ispunjeno hrpom sladoleda, ukusne mediteranske hrane i beskrajnom vožnjom skutera uz more. Luka dijeli ove pustolovine sa svojim novootkrivenim najboljim prijateljem, ali njihovoj beskrajnoj zabavi prijeti duboko čuvana tajna: radi se zapravo o pravim morskim čudovištima iz drugog svijeta, iz dubine oceana. 
+</description>
+            <origtitle>Luca</origtitle>
+            <duration>95</duration>
+            <year>2021</year>
+            <poster>assets\ec820fc4-a6bc-4ea6-a25b-7c7548b97980.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>LUCA HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2146">
+            <title>Murina</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Napeti odnos šesnaestogodišnje Julije i autoritativnog oca Ante počinje pucati kada u njihov dom na otoku stigne stari obiteljski prijatelj. Dok je otac zaokupljen pokušajima da s njim sklopi posao života, karizmatični gost Juliji otvara sve više prostora slobode što u njoj budi revolt prema roditeljima. Tijekom vikenda ispunjenog velikim očekivanjima, Julija uvlači obitelj u opasni vrtlog strasti i nasilja. Za film Murina redateljica Antoneta Alamat Kusijanović nagrađena je na Filmskom festivalu u Cannesu Zlatnom kamerom (Camera d’Or) kao najbolji debitant, a na Pulskom filmskom festivalu film je osvojio nagradu publike, Danica Ćurčić nagrađena je Zlatnom arenom za najbolju žensku ulogu te Antoneta Alamat Kusijanović Brezom za najboljeg debitanta.</description>
+            <origtitle>Murina</origtitle>
+            <duration>92</duration>
+            <year>2021</year>
+            <poster>assets\2fa989ab-a4fe-4638-892a-b1a838182634.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>MURINA HR.mp4</trailer>
+            <genre id="260" name="drama"/>
+        </movie>
+        <movie id="2147">
+            <title>Odred otpisanih: Nova misija</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Dobrodošli u pakao - a.k.a. Belle Reve, zatvor s najvišom stopom smrtnosti u SAD-u. Gdje se drže najgori super-negativci koji će učiniti sve da izađu - čak i pridružiti se supertajnoj, super-mračnoj misiji. Današnji tko preživi pričat će zadatak je okupiti Bloodsporta, Peacemakera, Captaina Boomeranga, Ratcatchera 2, Savanta, King Sharka, Blackguarda, Javelin i svima omiljenu Harley Quinna, naoružati ih i baciti (doslovno) na udaljeni, neprijateljski otok Corto Maltese. Kao i do sada, jedan njihov pogrešan potez i mrtvi su (bilo od ruku svojih protivnika, suigrača ili Waller). 
+</description>
+            <origtitle>The Suicide Squad</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\d4a99f2b-05b3-4857-973a-d85d71162f5c.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>SUICIDE SQUAD HR.mp4</trailer>
+            <genre id="261" name="akcija, avantura"/>
+        </movie>
+        <movie id="2148">
+            <title>Petar Zecimir: Skok u avanturu - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Neko vrijeme je prošlo otkako su Petar Zecimir i Tomica zakopali ratnu sjekiru, barem prividno. Biba, Tomica i zečevi osnovali su improviziranu obitelj, ali unatoč svim nastojanjima, Petar nikako da se riješi svoje nestašne reputacije. Tražeći avanturu izvan sigurnosti vlastitog vrta, Zecimir otkriva cijeli novi svijet u kojemu se njegovi nestašluci cijene, ali u trenutku kada njegova obitelj odluči sve riskirati kako bi ga pronašla, Petar mora odlučiti kakav zec želi biti.</description>
+            <origtitle>Peter Rabbit 2: The Runaway</origtitle>
+            <duration>93</duration>
+            <year>2021</year>
+            <poster>assets\074384f1-c31f-4f27-ac46-ec35f284bf59.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>PETER RABBIT 2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2149">
+            <title>Plaćenica</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Anna (Maggie Q) je najvještiji plaćeni ubojica na svijetu - kao dijete ju je spasio legendarni Moody (Samuel L. Jackson) i polako učio „obiteljskom poslu”. Kada čovjeka koji joj je bio poput oca i koji ju je naučio svemu što treba znati o povjerenju i preživljavanju brutalno ubiju, Anna se zavjetuje na osvetu. 
+</description>
+            <origtitle>The Protege</origtitle>
+            <duration>109</duration>
+            <year>2021</year>
+            <poster>assets\d0f06c2b-774a-4c79-bdb1-7d1a849ef56e.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>PROTEGE HRV 720.mp4</trailer>
+            <genre id="263" name="akcija, triler"/>
+        </movie>
+        <movie id="2150">
+            <title>Poslije svega: Pad</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, ali sad su dospjeli u fazu u kojoj se izlaz ne nazire. Upravo dok se Tessa sprema donijeti jednu od važnijih odluka u životu, sve se promijeni. Hardin se još uvijek ne zna kontrolirati i sve oko nje počinje se raspadati. 
+Nikome ne može vjerovati, nitko nije onakav kakav se čini. 
+Ni obitelj, ni prijatelji.
+</description>
+            <origtitle>After We Fell</origtitle>
+            <duration>98</duration>
+            <year>2021</year>
+            <poster>assets\f6c6e8e2-295c-4dd6-b0b9-32cd15fc74bc.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>AFTER WE FELL B HRV 720.mp4</trailer>
+            <genre id="264" name="ljubavna drama"/>
+        </movie>
+        <movie id="2151">
+            <title>Priče iz skrivenog grada: Drvo želja - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>U skrivenom su gradu njegovi građani davno sklopili pakt o suživotu u harmoniji, ali mlada oposumka Kerry sanja o avanturi izvan zidina grada.
+Na ceremoniji koja se odvija svake godine, ona ubere posljednje sjeme s mitskog Stabla želja, koje nekako pokreće apokaliptičnu ledenu oluju. Sljedećeg jutra se budi u svom gradu koji je prekriven snijegom, a svim stanovnicima zaprijeti opasnost. Kerry će imati jako malo vremena kako bi ispravila svoju pogrešku i spasila svoj grad i njegove stanovnike.
+</description>
+            <origtitle>Sanctuary tales: Wishmas tree</origtitle>
+            <duration>90</duration>
+            <year>2019</year>
+            <poster>assets\0780d0b3-14de-481d-824a-1af646eb655a.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>SANCTUARY TALES WISHMAS TREE HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2152">
+            <title>Psići u ophodnji: Film - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Psići prvi put napuštaju Adventure Bay - uvodeći nas u novi svijet Adventure Cityja. Kad psići saznaju da je Humdinger postao gradonačelnik prometne metropole, kreću u akciju kako bi spasili grad od njegove sebičnosti. Uz nove lokacije, smiješne, nove likove, ludu akciju, ova poznata CG animacija je savršen film za zajedničko uživanje najmlađih, ali i cijele obitelji.
+</description>
+            <origtitle>Paw Patrol: The Movie</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\9d380db6-b0c8-4934-8083-540b09cc1082.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>PAW PATROL HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2153">
+            <title>Putovanje kroz sjećanja</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Nick Bannister (Hugh Jackman), privatni istražitelj uma, kreće se primamljivim ali mračnim svijetom prošlosti pomažući svojim klijentima da pristupe izgubljenim uspomenama. Živeći na rubu potonule obale Miamija, život mu se zauvijek mijenja kada preuzme novu klijenticu Mae (Rebecca Ferguson). Jednostavno pitanje izgubljenog i pronađenog postaje opasna opsesija. Dok se Bannister bori da pronađe istinu o Maeinom nestanku, otkriva nevjerojatnu zavjeru i na kraju mora odgovoriti na pitanje:  koliko daleko biste išli da zadržite one koje volite?
+</description>
+            <origtitle>Reminiscence</origtitle>
+            <duration>116</duration>
+            <year>2021</year>
+            <poster>assets\bcdf0935-da9a-4f81-8eb7-d2a448233ad0.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>REMINISCENCE HR.mp4</trailer>
+            <genre id="265" name="SF, avantura, misterij"/>
+        </movie>
+        <movie id="2154">
+            <title>Respect</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ove godine u kina nam stiže priča o jednoj od najvećih pjevačica svih vremena Arethi Franklin. R&amp;B pjevačicu glumi dobitnica nagrade Oscar, Jennifer Hudson, koju je Aretha osobno izabrala za tu ulogu.</description>
+            <origtitle>Respect</origtitle>
+            <duration>145</duration>
+            <year>2021</year>
+            <poster>assets\5cd9a69b-8d98-4c1a-9891-e0d0a2585701.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>RESPECT HR.mp4</trailer>
+            <genre id="266" name="biografski, drama"/>
+        </movie>
+        <movie id="2155">
+            <title>Shang-Chi i legenda o deset prstenova</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Ekipa studija Marvel predstavlja još jedan superherojski akcijski spektakl o majstoru Kung fua čiji je otac član zloglasne organizacije Deset Prstenova koju smo upoznali kroz ranije Marvelove filmove.
+
+Od djetinjstva obučavan za majstora borilačkih vještina, Shang-Chi je prisiljen suočiti se s prošlošću za koju je mislio da je ostavio za sobom. 
+U svijetu se u međuvremenu pojavila nova velika prijetnja, a  Shang-Chi je ponovno uvučen u mrežu svog oca, šefa tajanstvene organizacije Deset prstenova koja se skrivala u sjeni MCU od samog početka.
+
+ </description>
+            <origtitle>Shang-Chi and the Legend of the Ten Rings</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\34548ea1-5d65-4b79-92a0-9d3286255461.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>SHANG-CHI HRV 720.mp4</trailer>
+            <genre id="267" name="akcija, avantura, SF"/>
+        </movie>
+        <movie id="2156">
+            <title>Space Jam: Nova legenda - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ovo transformacijsko putovanje otkriva koliko će daleko neki roditelji ići kako bi se povezali sa svojom djecom. LeBron i njegov sin Dom zarobljeni su u digitalnom prostoru i LeBron ih mora odvesti kući na sigurno,  vodeći  sa sobom i Bugsa, Lolu i cijelu bandu notorno nediscipliniranih Looneyja Tunesa. U filmu se pojavljuju i mnoge profesionalne košarkaške zvijezde u ulogama u kojima ih do sada niste mogli vidjeti. </description>
+            <origtitle>Space Jam: A New Legacy</origtitle>
+            <duration>117</duration>
+            <year>2021</year>
+            <poster>assets\df03e888-d719-4bbc-8ddf-39b341eac6b9.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>SPACE JAM F4 HRV SINKRO 720.mp4</trailer>
+            <genre id="268" name="igrano - animirana avantura"/>
+        </movie>
+        <movie id="2157">
+            <title>StarDog i TurboCat - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Godine 1969. pas je lansiran u svemir. Neobična nezgoda pretvorila ga je u superheroja te ga je lansirala u budućnost. Kako bi se obranio od ljudi koji sada mrze životinje potreban mu je superpomoćnik. Savršena obiteljska avantura o najvećim superherojima ikad puštenima sa uzice.
+</description>
+            <origtitle>StarDog and TurboCat</origtitle>
+            <duration>90</duration>
+            <year>2021</year>
+            <poster>assets\f4295d95-bd4e-417e-8593-8b478fc23845.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>STARDOG AND TURBOCAT HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2158">
+            <title>Tom i Jerry - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Jedno od najomiljenijih rivalstava u povijesti ponovno oživljava kad se Jerry useli u najljepši hotel New Yorka uoči "vjenčanja stoljeća", prisiljavajući očajnog organizatora vjenčanja da hitno zatraži nužne mjere. Chloë Grace Moretz nalazi se u ulozi tek zaposlene Kayle, koja ima zadatak riješiti problem glodavaca u hotelu prije važnog događaja. Kayla za pomoć uzima Toma kako bi zajednički zaustavili nestašnog Jerryja.
+Slijedi naravno epska bitka mačke i miša koja prijeti uništenjem njezine karijere, vjenčanja, a moguće i samog hotela. No uskoro se pojavljuje još veći problem: zlobni i  ambiciozni djelatnik koji se urotio protiv njih troje.
+</description>
+            <origtitle>Tom &amp; Jerry</origtitle>
+            <duration>101</duration>
+            <year>2021</year>
+            <poster>assets\cf6dbdc2-401e-4235-b98f-25700f2346b4.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>TOM AND JERRY HRV 720.mp4</trailer>
+            <genre id="269" name="animacija, avantura, komedija"/>
+        </movie>
+        <movie id="2159">
+            <title>Tvornica snova - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Minnin se život preokrenuo naglavačke kada joj se u dom doselile tatina zaručnica Helena i njezina kći Jenny. Njezina je nova polusestra nepodnošljiva i Minna je radi toga jako nezadovoljna. Želi da je nema! Jedne noći, ona otkriva svijet iz mašte u kojem neobični graditelji stvaraju naše snove i otkriva kako njima manipulirati. Ali miješanje u snove ljudi ima strašne posljedice i kad Minna jedne noći ode predaleko, Jenny se više ne može probuditi. Minna mora posljednji put ući u svijet snova kako bi se suočila s onima koje je sama stvorila i kako bi spasila Jenny i svoju novu obitelj.
+</description>
+            <origtitle>Dreambuilders</origtitle>
+            <duration>81</duration>
+            <year>2020</year>
+            <poster>assets\bdf2d859-16dc-4d67-9345-b26e5a4fd2e4.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>DREAMBUILDERS HR ML.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2160">
+            <title>Vik i čarobni mač - sink</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Vik je sin moćnog Halvara, vikinškog poglavara. Njegov tata ima zlatno srce, ali djeluje brže nego što misli, što nažalost stvara probleme čitavom plemenu. Vik možda nema očinsku snagu, ali ima hrabro srce i prilično je lukav. Obje ove vrline će se pokazati ključnim kada se, zahvaljujući zlosretnom prokletstvu, Vikijeva majka pretvori u zlatni kip. Hrabri momak će okupiti posadu koja kreće u potragu za čarobnim otokom. Prema legendi, samo tamo možete poništiti čaroliju i vratiti majku. Ulog će biti ne samo sudbina voljene majke, već i sudbina cijelog plemena.
+</description>
+            <origtitle>Vic the Viking and the Magic Sword</origtitle>
+            <duration>82</duration>
+            <year>2019</year>
+            <poster>assets\79fcce5e-1c25-4a12-891c-144df454bf29.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>VIC THE VIKING HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2161">
+            <title>Zloćudno</title>
+            <pubdate>2021-09-11T00:00:00</pubdate>
+            <description>Madison je paralizirana šokantnim vizijama užasnih ubojstava, a njezina se muka pogoršava kad otkrije da su ti snovi zapravo zastrašujuća stvarnost.
+
+Tijekom djetinjstva Madison je bila hospitalizirana zbog uznapredovale bolesti. Dok boravi u bolnici bude posvojena te nastavlja živjeti normalnim životom. Nekoliko desetljeća kasnije Madison ima svoju obitelj. Trauma koju je doživjela jedne večeri naglo pogorša stanje.
+
+Jako sam uzbuđen oko ovog filma. Ne mogu to niti opisati. Htio sam napraviti nešto žanrovski originalno, i drugačije od mojih prijašnjih radova, a opet da bude u duhu horor trilera uz koje sam odrastao, izjavio je redatelj. 
+</description>
+            <origtitle>Malignant</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\c8b9d23f-519d-410f-a6fe-a6c186d0a27d.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>11.09.2021</date>
+            <trailer>MALIGNANT HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2162">
+            <title>Ainbo: Dobri duh Amazone - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Ainbo je priča o djevojčici koja se rodila i odrasla u najdubljoj džungli Amazone u selu Colonia. Jednog dana otkrije da je njezina zemlja ugrožena i shvati da na svijetu postoje i drugi ljudi, osim njezinih. Koristeći pomoć svojih duhovnih vodiča, kreće na put tražeći pomoć od najmoćnije Majke Duha Amazone, Kornjače "Motelo Mama". Vođena njezinim savjetima, Ainbo je odlučna spasiti svoj raj od pohlepne i prekomjerne sječe stabala te ilegalnog iskopavanja i spasiti svoje ljude prije nego što bude prekasno. 
+</description>
+            <origtitle>Ainbo</origtitle>
+            <duration>84</duration>
+            <year>2021</year>
+            <poster>assets\2fcd1809-51ec-4a85-b5e1-6465dc4d02c5.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>AINBO HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2163">
+            <title>Avanture obitelji Bigfoot - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Nekoliko mjeseci nakon njihovog ponovnog susreta, životinje i ljudi žive sretno, a Adam se polako navikava na svoje nove moći. Sve dok ih njegov otac ponovo ne odluči napustiti kako bi spasio dolinu prljavih poslova naftne tvrtke X Tract. Shelly, Adam, Wilbur i Trapper odluče krenuti za njim i istražiti što se zapravo tamo događa ..</description>
+            <origtitle>Bigfoot Family</origtitle>
+            <duration>89</duration>
+            <year>2020</year>
+            <poster>assets\a0969c69-82d6-4dac-94a8-4d47185edc15.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>BIGFOOT FAMILY HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2164">
+            <title>Candyman</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Oscarom nagrađeni Jordan Peele na velika platna donosi remake strašne urbane legende o Candymanu. Umjetnik otkriva legendu te koristi priče o Candymanu kao svoju inspiraciju za slikanje, no polagano gubi razum te na svom putu susreće smrt i destrukciju.
+
+Universal Pictures i Metro Goldwyn Mayer Pictures u suradnji s BRON Creative i producentskom kućom Jordana Peele Monkeypaw predstavljaju film koji je baziran na kultnom hororu iz 1992 – Candyman te kratkoj priči Clive Bakera – The Forbidden.
+
+Redateljsku palicu preuzela je mlada redateljska zvijezda u usponu Nia DaCosta koja je zajedno s Jordanom Peleeom napisala i scenarij. 
+
+Glumačku postavu predvode Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett te Colman Domingo.
+</description>
+            <origtitle>Candyman</origtitle>
+            <duration>91</duration>
+            <year>2021</year>
+            <poster>assets\33d67beb-37f8-4534-ad63-7d099dec93b6.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>CANDYMAN HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2165">
+            <title>Croods: Novo doba - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Nakon sedam godina omiljena prahistorijska obitelj, Croods, se vraća na velika platna. Do sad su se susreli s mnogobrojnim nedaćama i opasnostima, ali na ono što ih čeka nikako se nisu mogli pripremiti. Naime srest će drugu obitelj koja je puno naprednija od njih. 
+Animiranu avanturu režirao je Joel Crafword koji je i sam glumio u mnogim animiranim filmovima studija DreamWorks, a producent je Mark Swift.
+
+Croodsi traže novo mjesto za život te putuju svijetom u potrazi za sigurnijim mjestom za svoj dom. U svojoj potrazi nailaze na idilično mjesto okruženo zidinama i s jako puno hrane. No tamo nailaze i na novu, puno napredniju obitelj, koja ih se želi riješiti što prije.
+Nova obitelj je daleko razvijenija od Croodsa, žive u kući na drvetu, znaju uzgajati hranu, imaju WC, lift i mnoge druge izume koje Croodi nisu nikada vidjeli. 
+No neočekivani obrat natjerat će obje obitelji da surađuju i krenu na pustolovinu života s druge strane zidina. Na tom putu će shvatiti da ih ipak veže puno stvari te da mogu premostiti razlike koje ih razdvajaju.
+</description>
+            <origtitle>The Croods: A New Age</origtitle>
+            <duration>95</duration>
+            <year>2020</year>
+            <poster>assets\d9b21c24-b651-4b5a-8cc6-75197800be1c.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>CROODS  2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2166">
+            <title>Čarobni prolaz - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Uzbudljiva i živopisna avantura odvest će vašu obitelj u morske dubine, u krajolike očaravajuće ljepote, ali i velike opasnosti. Priča prati mladog dupina bujne mašte i njegovog najboljeg prijatelja koji neprestano otkrivaju nova mjesta za istraživanje - pronalaze brojne čarobne predmete, za koje nitko ne vjeruje da su zapravo stvarni. Jednog dana otkriju čarobni prolaz koji ih može pretvoriti u ono što žele postati. Nažalost, jegulje su otkrile njihovu tajnu i odlučili su prolaz iskoristiti za preuzimanje Ribljeg grada. Kako priča napreduje, dupini se moraju utrkivati s vremenom kako bi spasili svoj grad. S nizom ljupkih detalja, odličnim glumcima koji su sinkronizirali film i, dakako, savršenom najmodernijom tehnikom animacije, ovaj film pravo je uživanje za oči i osjećaje. 
+</description>
+            <origtitle>Magic Arch</origtitle>
+            <duration>84</duration>
+            <year>2020</year>
+            <poster>assets\4148fdf8-3316-45a3-9e8a-479641383f1c.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>MAGIC ARCH HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2167">
+            <title>Divlji Spirit - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>&lt;p class="Tijelo" style="text-align:justify"&gt;&lt;span style="font-family:arial,sans-serif"&gt;Lucky Prescott nije upoznala svoju pokojnu majku Milagro Navarro, neustrašivu jahačicu kaskaderku iz Miradera, malog grada na Divljem zapadu. Poput svoje majke, Lucky ne mari puno za pravila i ograničenja, čime svojoj teti Cori zadaje puno briga. Lucky je odrasla u gradu na istočnoj obali pod Corinim budnim okom, ali kad pretjera s opasnim nestašlucima, Cora odluči da se presele u Miradero, gdje živi Luckyin otac Jim.
+
+</description>
+            <origtitle>Spirit Untamed</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\63065f05-06b3-4a04-8204-830ce09e263e.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>Spirit untamed HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2168">
+            <title>Escape Room 2: Bez izlaza</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Escape Room 2: Bez izlaza nastavak je velikog kino hita i psihološki triler koji je prestravio publiku diljem svijeta. U ovom dijelu, šestero se ljudi nehotice nađe zatvoreno u drugoj seriji soba za bijeg, polako otkrivajući ono što im je zajedničko za preživljavanje. Udružujući snage s dvoje izvorno preživjelih, ubrzo otkrivaju da su svi već igrali ovu igru.</description>
+            <origtitle>Escape Room: Tournament of Champions</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\d752d8ca-4bab-40e8-9d51-dbf1c2c87d39.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>ESCAPE ROOM 2 HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2169">
+            <title>Free Guy</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <origtitle>Free Guy</origtitle>
+            <duration>115</duration>
+            <year>2020</year>
+            <poster>assets\2aa9a014-ad03-4fdb-ad8d-7fdeaa023dd2.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>FREEGUY  HR novi.mp4</trailer>
+            <genre id="257" name="akcija, komedija"/>
+        </movie>
+        <movie id="2170">
+            <title>Kraljice kupona</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Radnja je temeljena na istinitoj priči o najvećoj prevari krivotvorenim kuponima u povijesti SAD-a. Kristen Bell je u ulozi nezadovoljne domaćice iz prigradskog naselja koja radi na „poduzetničkom” projektu osnivanja ilegalnog kluba s kuponima kojim ona i njezini partneri varaju velike prehrambene i ostale kompanije, dok štede milijune dolara članovima kluba. 
+</description>
+            <origtitle>Queenpins</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\a91af14d-5dc5-4154-b71e-29819748c6f7.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>QUEENPINS HRV 720.mp4</trailer>
+            <genre id="258" name="komedija"/>
+        </movie>
+        <movie id="2171">
+            <title>Krstarenje džunglom</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevjerojatnim ljekovitim svojstvima koje imaju moć promijeniti budućnosti medicine. U svojoj potrazi, ovaj dvojac će se susresti s bezbroj opasnosti i natprirodnih sila u varljivoj ljepoti bujne prašume. 
+</description>
+            <origtitle>Jungle Cruise</origtitle>
+            <duration>127</duration>
+            <year>2020</year>
+            <poster>assets\4fd4f189-bb33-4d9d-942a-2e915ab07a86.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>JUNGLECRUISE HR novi.mp4</trailer>
+            <genre id="259" name="akcija, avantura, komedija"/>
+        </movie>
+        <movie id="2172">
+            <title>Kuća noćnih mora</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Oporavljajući se od neočekivane smrti supruga, Beth (Rebecca Hall) ostaje sama u domu na jezeru koji joj je sagradio. Pokušava se tamo pribrati i ponovo započeti život bez njega - ali tada kreće prava noćna mora. Uznemirujuće vizije je mame sablasnom privlačnošću. Suprotno savjetima svojih prijatelja, Beth počinje kopati po suprugovim stvarima, žudeći za odgovorima. Ono što nalazi su tajne i čudne i uznemirujuće - misterij koji je odlučna otkriti. 
+</description>
+            <origtitle>Night House</origtitle>
+            <duration>107</duration>
+            <year>2021</year>
+            <poster>assets\888c0c18-5c7e-491c-a264-b4541e9ddeff.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>NIGHT HOUSE HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2173">
+            <title>Kućni ljubimci na tajnom zadatku - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Roger je pas lutalica koji brine o napuštenim životinjama Robo Citya tako što krade hranu od bogatih i donosi je manje bogatim životinjama. Prilikom jedne takve krađe on upozna Belle, bogatu i razmaženu mačku te njih dvoje odmah upadnu u klasičnu pas-mačka svađu. Za to vrijeme roboti preuzimaju Robo City, a u tome im i pomaže gradonačelnik koji želi protjerati sve druge stanovnike grada. Roger i Belle bježeći pred robotima susreću brojne druge životinje koje su vlasnici zaboravili prilikom bijega, te shvaćaju da se unatoč svojim različitostima moraju osloniti jedni na druge kako bi preživjeli.
+</description>
+            <origtitle>Pets United</origtitle>
+            <duration>92</duration>
+            <year>2020</year>
+            <poster>assets\0ca14b51-d6e2-4571-a40c-7e4107aa2c13.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>PETS UNITED HRV 720 novi.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2174">
+            <title>Luka - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Mladi dečko Luka doživljava nezaboravno ljeto na talijanskoj rivijeri ispunjeno hrpom sladoleda, ukusne mediteranske hrane i beskrajnom vožnjom skutera uz more. Luka dijeli ove pustolovine sa svojim novootkrivenim najboljim prijateljem, ali njihovoj beskrajnoj zabavi prijeti duboko čuvana tajna: radi se zapravo o pravim morskim čudovištima iz drugog svijeta, iz dubine oceana. 
+</description>
+            <origtitle>Luca</origtitle>
+            <duration>95</duration>
+            <year>2021</year>
+            <poster>assets\1d08143b-9fab-4f25-9c30-8f9a3844b461.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>LUCA HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2175">
+            <title>Murina</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Napeti odnos šesnaestogodišnje Julije i autoritativnog oca Ante počinje pucati kada u njihov dom na otoku stigne stari obiteljski prijatelj. Dok je otac zaokupljen pokušajima da s njim sklopi posao života, karizmatični gost Juliji otvara sve više prostora slobode što u njoj budi revolt prema roditeljima. Tijekom vikenda ispunjenog velikim očekivanjima, Julija uvlači obitelj u opasni vrtlog strasti i nasilja. Za film Murina redateljica Antoneta Alamat Kusijanović nagrađena je na Filmskom festivalu u Cannesu Zlatnom kamerom (Camera d’Or) kao najbolji debitant, a na Pulskom filmskom festivalu film je osvojio nagradu publike, Danica Ćurčić nagrađena je Zlatnom arenom za najbolju žensku ulogu te Antoneta Alamat Kusijanović Brezom za najboljeg debitanta.</description>
+            <origtitle>Murina</origtitle>
+            <duration>92</duration>
+            <year>2021</year>
+            <poster>assets\0035e5b5-5932-4a72-98b9-abfe765094f0.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>MURINA HR.mp4</trailer>
+            <genre id="260" name="drama"/>
+        </movie>
+        <movie id="2176">
+            <title>Odred otpisanih: Nova misija</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Dobrodošli u pakao - a.k.a. Belle Reve, zatvor s najvišom stopom smrtnosti u SAD-u. Gdje se drže najgori super-negativci koji će učiniti sve da izađu - čak i pridružiti se supertajnoj, super-mračnoj misiji. Današnji tko preživi pričat će zadatak je okupiti Bloodsporta, Peacemakera, Captaina Boomeranga, Ratcatchera 2, Savanta, King Sharka, Blackguarda, Javelin i svima omiljenu Harley Quinna, naoružati ih i baciti (doslovno) na udaljeni, neprijateljski otok Corto Maltese. Kao i do sada, jedan njihov pogrešan potez i mrtvi su (bilo od ruku svojih protivnika, suigrača ili Waller). 
+</description>
+            <origtitle>The Suicide Squad</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\00a650d5-06a1-484a-b144-f32c8a15b8f9.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>SUICIDE SQUAD HR.mp4</trailer>
+            <genre id="261" name="akcija, avantura"/>
+        </movie>
+        <movie id="2177">
+            <title>Petar Zecimir: Skok u avanturu - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Neko vrijeme je prošlo otkako su Petar Zecimir i Tomica zakopali ratnu sjekiru, barem prividno. Biba, Tomica i zečevi osnovali su improviziranu obitelj, ali unatoč svim nastojanjima, Petar nikako da se riješi svoje nestašne reputacije. Tražeći avanturu izvan sigurnosti vlastitog vrta, Zecimir otkriva cijeli novi svijet u kojemu se njegovi nestašluci cijene, ali u trenutku kada njegova obitelj odluči sve riskirati kako bi ga pronašla, Petar mora odlučiti kakav zec želi biti.</description>
+            <origtitle>Peter Rabbit 2: The Runaway</origtitle>
+            <duration>93</duration>
+            <year>2021</year>
+            <poster>assets\36623376-0916-4411-b2cd-951c34abc088.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>PETER RABBIT 2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2178">
+            <title>Plaćenica</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Anna (Maggie Q) je najvještiji plaćeni ubojica na svijetu - kao dijete ju je spasio legendarni Moody (Samuel L. Jackson) i polako učio „obiteljskom poslu”. Kada čovjeka koji joj je bio poput oca i koji ju je naučio svemu što treba znati o povjerenju i preživljavanju brutalno ubiju, Anna se zavjetuje na osvetu. 
+</description>
+            <origtitle>The Protege</origtitle>
+            <duration>109</duration>
+            <year>2021</year>
+            <poster>assets\44c64b72-1d3a-4110-aac3-bea28ac98477.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>PROTEGE HRV 720.mp4</trailer>
+            <genre id="263" name="akcija, triler"/>
+        </movie>
+        <movie id="2179">
+            <title>Poslije svega: Pad</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, ali sad su dospjeli u fazu u kojoj se izlaz ne nazire. Upravo dok se Tessa sprema donijeti jednu od važnijih odluka u životu, sve se promijeni. Hardin se još uvijek ne zna kontrolirati i sve oko nje počinje se raspadati. 
+Nikome ne može vjerovati, nitko nije onakav kakav se čini. 
+Ni obitelj, ni prijatelji.
+</description>
+            <origtitle>After We Fell</origtitle>
+            <duration>98</duration>
+            <year>2021</year>
+            <poster>assets\6aab8fae-d754-49be-b330-738ac0af61a7.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>AFTER WE FELL B HRV 720.mp4</trailer>
+            <genre id="264" name="ljubavna drama"/>
+        </movie>
+        <movie id="2180">
+            <title>Priče iz skrivenog grada: Drvo želja - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>U skrivenom su gradu njegovi građani davno sklopili pakt o suživotu u harmoniji, ali mlada oposumka Kerry sanja o avanturi izvan zidina grada.
+Na ceremoniji koja se odvija svake godine, ona ubere posljednje sjeme s mitskog Stabla želja, koje nekako pokreće apokaliptičnu ledenu oluju. Sljedećeg jutra se budi u svom gradu koji je prekriven snijegom, a svim stanovnicima zaprijeti opasnost. Kerry će imati jako malo vremena kako bi ispravila svoju pogrešku i spasila svoj grad i njegove stanovnike.
+</description>
+            <origtitle>Sanctuary tales: Wishmas tree</origtitle>
+            <duration>90</duration>
+            <year>2019</year>
+            <poster>assets\fb38dde4-658e-46b7-827d-dbcee3c857e2.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>SANCTUARY TALES WISHMAS TREE HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2181">
+            <title>Psići u ophodnji: Film - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Psići prvi put napuštaju Adventure Bay - uvodeći nas u novi svijet Adventure Cityja. Kad psići saznaju da je Humdinger postao gradonačelnik prometne metropole, kreću u akciju kako bi spasili grad od njegove sebičnosti. Uz nove lokacije, smiješne, nove likove, ludu akciju, ova poznata CG animacija je savršen film za zajedničko uživanje najmlađih, ali i cijele obitelji.
+</description>
+            <origtitle>Paw Patrol: The Movie</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\73e109fc-2160-4815-94df-1085d5182121.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>PAW PATROL HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2182">
+            <title>Putovanje kroz sjećanja</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Nick Bannister (Hugh Jackman), privatni istražitelj uma, kreće se primamljivim ali mračnim svijetom prošlosti pomažući svojim klijentima da pristupe izgubljenim uspomenama. Živeći na rubu potonule obale Miamija, život mu se zauvijek mijenja kada preuzme novu klijenticu Mae (Rebecca Ferguson). Jednostavno pitanje izgubljenog i pronađenog postaje opasna opsesija. Dok se Bannister bori da pronađe istinu o Maeinom nestanku, otkriva nevjerojatnu zavjeru i na kraju mora odgovoriti na pitanje:  koliko daleko biste išli da zadržite one koje volite?
+</description>
+            <origtitle>Reminiscence</origtitle>
+            <duration>116</duration>
+            <year>2021</year>
+            <poster>assets\24c38f2d-b8bc-4357-9001-02a200d69027.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>REMINISCENCE HR.mp4</trailer>
+            <genre id="265" name="SF, avantura, misterij"/>
+        </movie>
+        <movie id="2183">
+            <title>Respect</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ove godine u kina nam stiže priča o jednoj od najvećih pjevačica svih vremena Arethi Franklin. R&amp;B pjevačicu glumi dobitnica nagrade Oscar, Jennifer Hudson, koju je Aretha osobno izabrala za tu ulogu.</description>
+            <origtitle>Respect</origtitle>
+            <duration>145</duration>
+            <year>2021</year>
+            <poster>assets\5d5026a1-2425-4fee-b88a-05e6caaa8ec0.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>RESPECT HR.mp4</trailer>
+            <genre id="266" name="biografski, drama"/>
+        </movie>
+        <movie id="2184">
+            <title>Shang-Chi i legenda o deset prstenova</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Ekipa studija Marvel predstavlja još jedan superherojski akcijski spektakl o majstoru Kung fua čiji je otac član zloglasne organizacije Deset Prstenova koju smo upoznali kroz ranije Marvelove filmove.
+
+Od djetinjstva obučavan za majstora borilačkih vještina, Shang-Chi je prisiljen suočiti se s prošlošću za koju je mislio da je ostavio za sobom. 
+U svijetu se u međuvremenu pojavila nova velika prijetnja, a  Shang-Chi je ponovno uvučen u mrežu svog oca, šefa tajanstvene organizacije Deset prstenova koja se skrivala u sjeni MCU od samog početka.
+
+ </description>
+            <origtitle>Shang-Chi and the Legend of the Ten Rings</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\63f99639-8741-492c-bd09-5b314ec72065.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>SHANG-CHI HRV 720.mp4</trailer>
+            <genre id="267" name="akcija, avantura, SF"/>
+        </movie>
+        <movie id="2185">
+            <title>Space Jam: Nova legenda - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ovo transformacijsko putovanje otkriva koliko će daleko neki roditelji ići kako bi se povezali sa svojom djecom. LeBron i njegov sin Dom zarobljeni su u digitalnom prostoru i LeBron ih mora odvesti kući na sigurno,  vodeći  sa sobom i Bugsa, Lolu i cijelu bandu notorno nediscipliniranih Looneyja Tunesa. U filmu se pojavljuju i mnoge profesionalne košarkaške zvijezde u ulogama u kojima ih do sada niste mogli vidjeti. </description>
+            <origtitle>Space Jam: A New Legacy</origtitle>
+            <duration>117</duration>
+            <year>2021</year>
+            <poster>assets\a822f3e4-a909-457a-8162-d95f1f8b8c63.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>SPACE JAM F4 HRV SINKRO 720.mp4</trailer>
+            <genre id="268" name="igrano - animirana avantura"/>
+        </movie>
+        <movie id="2186">
+            <title>StarDog i TurboCat - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Godine 1969. pas je lansiran u svemir. Neobična nezgoda pretvorila ga je u superheroja te ga je lansirala u budućnost. Kako bi se obranio od ljudi koji sada mrze životinje potreban mu je superpomoćnik. Savršena obiteljska avantura o najvećim superherojima ikad puštenima sa uzice.
+</description>
+            <origtitle>StarDog and TurboCat</origtitle>
+            <duration>90</duration>
+            <year>2021</year>
+            <poster>assets\aa5a601b-476b-47b5-8e8e-ad044c368ce5.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>STARDOG AND TURBOCAT HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2187">
+            <title>Tom i Jerry - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Jedno od najomiljenijih rivalstava u povijesti ponovno oživljava kad se Jerry useli u najljepši hotel New Yorka uoči "vjenčanja stoljeća", prisiljavajući očajnog organizatora vjenčanja da hitno zatraži nužne mjere. Chloë Grace Moretz nalazi se u ulozi tek zaposlene Kayle, koja ima zadatak riješiti problem glodavaca u hotelu prije važnog događaja. Kayla za pomoć uzima Toma kako bi zajednički zaustavili nestašnog Jerryja.
+Slijedi naravno epska bitka mačke i miša koja prijeti uništenjem njezine karijere, vjenčanja, a moguće i samog hotela. No uskoro se pojavljuje još veći problem: zlobni i  ambiciozni djelatnik koji se urotio protiv njih troje.
+</description>
+            <origtitle>Tom &amp; Jerry</origtitle>
+            <duration>101</duration>
+            <year>2021</year>
+            <poster>assets\4d74a0e9-1f0b-430c-8ce1-a7ef3ebfc067.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>TOM AND JERRY HRV 720.mp4</trailer>
+            <genre id="269" name="animacija, avantura, komedija"/>
+        </movie>
+        <movie id="2188">
+            <title>Tvornica snova - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Minnin se život preokrenuo naglavačke kada joj se u dom doselile tatina zaručnica Helena i njezina kći Jenny. Njezina je nova polusestra nepodnošljiva i Minna je radi toga jako nezadovoljna. Želi da je nema! Jedne noći, ona otkriva svijet iz mašte u kojem neobični graditelji stvaraju naše snove i otkriva kako njima manipulirati. Ali miješanje u snove ljudi ima strašne posljedice i kad Minna jedne noći ode predaleko, Jenny se više ne može probuditi. Minna mora posljednji put ući u svijet snova kako bi se suočila s onima koje je sama stvorila i kako bi spasila Jenny i svoju novu obitelj.
+</description>
+            <origtitle>Dreambuilders</origtitle>
+            <duration>81</duration>
+            <year>2020</year>
+            <poster>assets\879e4163-1e6e-461b-8618-238908d28c89.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>DREAMBUILDERS HR ML.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2189">
+            <title>Vik i čarobni mač - sink</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Vik je sin moćnog Halvara, vikinškog poglavara. Njegov tata ima zlatno srce, ali djeluje brže nego što misli, što nažalost stvara probleme čitavom plemenu. Vik možda nema očinsku snagu, ali ima hrabro srce i prilično je lukav. Obje ove vrline će se pokazati ključnim kada se, zahvaljujući zlosretnom prokletstvu, Vikijeva majka pretvori u zlatni kip. Hrabri momak će okupiti posadu koja kreće u potragu za čarobnim otokom. Prema legendi, samo tamo možete poništiti čaroliju i vratiti majku. Ulog će biti ne samo sudbina voljene majke, već i sudbina cijelog plemena.
+</description>
+            <origtitle>Vic the Viking and the Magic Sword</origtitle>
+            <duration>82</duration>
+            <year>2019</year>
+            <poster>assets\06f8dee3-5f8a-4b32-af0b-660e4073ccba.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>VIC THE VIKING HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2190">
+            <title>Zloćudno</title>
+            <pubdate>2021-09-12T00:00:00</pubdate>
+            <description>Madison je paralizirana šokantnim vizijama užasnih ubojstava, a njezina se muka pogoršava kad otkrije da su ti snovi zapravo zastrašujuća stvarnost.
+
+Tijekom djetinjstva Madison je bila hospitalizirana zbog uznapredovale bolesti. Dok boravi u bolnici bude posvojena te nastavlja živjeti normalnim životom. Nekoliko desetljeća kasnije Madison ima svoju obitelj. Trauma koju je doživjela jedne večeri naglo pogorša stanje.
+
+Jako sam uzbuđen oko ovog filma. Ne mogu to niti opisati. Htio sam napraviti nešto žanrovski originalno, i drugačije od mojih prijašnjih radova, a opet da bude u duhu horor trilera uz koje sam odrastao, izjavio je redatelj. 
+</description>
+            <origtitle>Malignant</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\12ec781b-c4ea-431c-8e3d-8a7255c3a113.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>12.09.2021</date>
+            <trailer>MALIGNANT HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2191">
+            <title>Avanture obitelji Bigfoot - sink</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Nekoliko mjeseci nakon njihovog ponovnog susreta, životinje i ljudi žive sretno, a Adam se polako navikava na svoje nove moći. Sve dok ih njegov otac ponovo ne odluči napustiti kako bi spasio dolinu prljavih poslova naftne tvrtke X Tract. Shelly, Adam, Wilbur i Trapper odluče krenuti za njim i istražiti što se zapravo tamo događa ..</description>
+            <origtitle>Bigfoot Family</origtitle>
+            <duration>89</duration>
+            <year>2020</year>
+            <poster>assets\39a2264c-7431-4cda-a560-49eac52d2f31.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>BIGFOOT FAMILY HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2192">
+            <title>Candyman</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Oscarom nagrađeni Jordan Peele na velika platna donosi remake strašne urbane legende o Candymanu. Umjetnik otkriva legendu te koristi priče o Candymanu kao svoju inspiraciju za slikanje, no polagano gubi razum te na svom putu susreće smrt i destrukciju.
+
+Universal Pictures i Metro Goldwyn Mayer Pictures u suradnji s BRON Creative i producentskom kućom Jordana Peele Monkeypaw predstavljaju film koji je baziran na kultnom hororu iz 1992 – Candyman te kratkoj priči Clive Bakera – The Forbidden.
+
+Redateljsku palicu preuzela je mlada redateljska zvijezda u usponu Nia DaCosta koja je zajedno s Jordanom Peleeom napisala i scenarij. 
+
+Glumačku postavu predvode Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett te Colman Domingo.
+</description>
+            <origtitle>Candyman</origtitle>
+            <duration>91</duration>
+            <year>2021</year>
+            <poster>assets\398f0cd6-efe2-4769-bf4e-fc74f4339a2a.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>CANDYMAN HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2193">
+            <title>Escape Room 2: Bez izlaza</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Escape Room 2: Bez izlaza nastavak je velikog kino hita i psihološki triler koji je prestravio publiku diljem svijeta. U ovom dijelu, šestero se ljudi nehotice nađe zatvoreno u drugoj seriji soba za bijeg, polako otkrivajući ono što im je zajedničko za preživljavanje. Udružujući snage s dvoje izvorno preživjelih, ubrzo otkrivaju da su svi već igrali ovu igru.</description>
+            <origtitle>Escape Room: Tournament of Champions</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\e5d08d05-3e74-438e-96d7-a526d5a1fde8.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>ESCAPE ROOM 2 HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2194">
+            <title>Free Guy</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <origtitle>Free Guy</origtitle>
+            <duration>115</duration>
+            <year>2020</year>
+            <poster>assets\8dd0d81c-529e-4cd4-84d7-428f0eb7ef2e.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>FREEGUY  HR novi.mp4</trailer>
+            <genre id="257" name="akcija, komedija"/>
+        </movie>
+        <movie id="2195">
+            <title>Kraljice kupona</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Radnja je temeljena na istinitoj priči o najvećoj prevari krivotvorenim kuponima u povijesti SAD-a. Kristen Bell je u ulozi nezadovoljne domaćice iz prigradskog naselja koja radi na „poduzetničkom” projektu osnivanja ilegalnog kluba s kuponima kojim ona i njezini partneri varaju velike prehrambene i ostale kompanije, dok štede milijune dolara članovima kluba. 
+</description>
+            <origtitle>Queenpins</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\7a8fa854-244c-439a-864f-4d1dcd0ad86c.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>QUEENPINS HRV 720.mp4</trailer>
+            <genre id="258" name="komedija"/>
+        </movie>
+        <movie id="2196">
+            <title>Krstarenje džunglom</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevjerojatnim ljekovitim svojstvima koje imaju moć promijeniti budućnosti medicine. U svojoj potrazi, ovaj dvojac će se susresti s bezbroj opasnosti i natprirodnih sila u varljivoj ljepoti bujne prašume. 
+</description>
+            <origtitle>Jungle Cruise</origtitle>
+            <duration>127</duration>
+            <year>2020</year>
+            <poster>assets\80b90412-521c-40e8-a3a0-fc1fbd99b346.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>JUNGLECRUISE HR novi.mp4</trailer>
+            <genre id="259" name="akcija, avantura, komedija"/>
+        </movie>
+        <movie id="2197">
+            <title>Kuća noćnih mora</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Oporavljajući se od neočekivane smrti supruga, Beth (Rebecca Hall) ostaje sama u domu na jezeru koji joj je sagradio. Pokušava se tamo pribrati i ponovo započeti život bez njega - ali tada kreće prava noćna mora. Uznemirujuće vizije je mame sablasnom privlačnošću. Suprotno savjetima svojih prijatelja, Beth počinje kopati po suprugovim stvarima, žudeći za odgovorima. Ono što nalazi su tajne i čudne i uznemirujuće - misterij koji je odlučna otkriti. 
+</description>
+            <origtitle>Night House</origtitle>
+            <duration>107</duration>
+            <year>2021</year>
+            <poster>assets\0ce1b255-6ca7-42db-b0ec-f99844cf8e29.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>NIGHT HOUSE HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2198">
+            <title>Murina</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Napeti odnos šesnaestogodišnje Julije i autoritativnog oca Ante počinje pucati kada u njihov dom na otoku stigne stari obiteljski prijatelj. Dok je otac zaokupljen pokušajima da s njim sklopi posao života, karizmatični gost Juliji otvara sve više prostora slobode što u njoj budi revolt prema roditeljima. Tijekom vikenda ispunjenog velikim očekivanjima, Julija uvlači obitelj u opasni vrtlog strasti i nasilja. Za film Murina redateljica Antoneta Alamat Kusijanović nagrađena je na Filmskom festivalu u Cannesu Zlatnom kamerom (Camera d’Or) kao najbolji debitant, a na Pulskom filmskom festivalu film je osvojio nagradu publike, Danica Ćurčić nagrađena je Zlatnom arenom za najbolju žensku ulogu te Antoneta Alamat Kusijanović Brezom za najboljeg debitanta.</description>
+            <origtitle>Murina</origtitle>
+            <duration>92</duration>
+            <year>2021</year>
+            <poster>assets\0b756d59-b1b0-44ff-8101-619b30ae9e5a.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>MURINA HR.mp4</trailer>
+            <genre id="260" name="drama"/>
+        </movie>
+        <movie id="2199">
+            <title>Odred otpisanih: Nova misija</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Dobrodošli u pakao - a.k.a. Belle Reve, zatvor s najvišom stopom smrtnosti u SAD-u. Gdje se drže najgori super-negativci koji će učiniti sve da izađu - čak i pridružiti se supertajnoj, super-mračnoj misiji. Današnji tko preživi pričat će zadatak je okupiti Bloodsporta, Peacemakera, Captaina Boomeranga, Ratcatchera 2, Savanta, King Sharka, Blackguarda, Javelin i svima omiljenu Harley Quinna, naoružati ih i baciti (doslovno) na udaljeni, neprijateljski otok Corto Maltese. Kao i do sada, jedan njihov pogrešan potez i mrtvi su (bilo od ruku svojih protivnika, suigrača ili Waller). 
+</description>
+            <origtitle>The Suicide Squad</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\14775712-15eb-4092-ac2e-35335f2380dc.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>SUICIDE SQUAD HR.mp4</trailer>
+            <genre id="261" name="akcija, avantura"/>
+        </movie>
+        <movie id="2200">
+            <title>Petar Zecimir: Skok u avanturu - sink</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Neko vrijeme je prošlo otkako su Petar Zecimir i Tomica zakopali ratnu sjekiru, barem prividno. Biba, Tomica i zečevi osnovali su improviziranu obitelj, ali unatoč svim nastojanjima, Petar nikako da se riješi svoje nestašne reputacije. Tražeći avanturu izvan sigurnosti vlastitog vrta, Zecimir otkriva cijeli novi svijet u kojemu se njegovi nestašluci cijene, ali u trenutku kada njegova obitelj odluči sve riskirati kako bi ga pronašla, Petar mora odlučiti kakav zec želi biti.</description>
+            <origtitle>Peter Rabbit 2: The Runaway</origtitle>
+            <duration>93</duration>
+            <year>2021</year>
+            <poster>assets\7b1797a5-a773-46ad-9b98-f01cd26e3985.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>PETER RABBIT 2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2201">
+            <title>Plaćenica</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Anna (Maggie Q) je najvještiji plaćeni ubojica na svijetu - kao dijete ju je spasio legendarni Moody (Samuel L. Jackson) i polako učio „obiteljskom poslu”. Kada čovjeka koji joj je bio poput oca i koji ju je naučio svemu što treba znati o povjerenju i preživljavanju brutalno ubiju, Anna se zavjetuje na osvetu. 
+</description>
+            <origtitle>The Protege</origtitle>
+            <duration>109</duration>
+            <year>2021</year>
+            <poster>assets\285eb542-5530-4ea0-b7b1-d844a0368527.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>PROTEGE HRV 720.mp4</trailer>
+            <genre id="263" name="akcija, triler"/>
+        </movie>
+        <movie id="2202">
+            <title>Poslije svega: Pad</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, ali sad su dospjeli u fazu u kojoj se izlaz ne nazire. Upravo dok se Tessa sprema donijeti jednu od važnijih odluka u životu, sve se promijeni. Hardin se još uvijek ne zna kontrolirati i sve oko nje počinje se raspadati. 
+Nikome ne može vjerovati, nitko nije onakav kakav se čini. 
+Ni obitelj, ni prijatelji.
+</description>
+            <origtitle>After We Fell</origtitle>
+            <duration>98</duration>
+            <year>2021</year>
+            <poster>assets\c07f3a7d-0f13-44a4-8a29-c379b3adeefb.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>AFTER WE FELL B HRV 720.mp4</trailer>
+            <genre id="264" name="ljubavna drama"/>
+        </movie>
+        <movie id="2203">
+            <title>Psići u ophodnji: Film - sink</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Psići prvi put napuštaju Adventure Bay - uvodeći nas u novi svijet Adventure Cityja. Kad psići saznaju da je Humdinger postao gradonačelnik prometne metropole, kreću u akciju kako bi spasili grad od njegove sebičnosti. Uz nove lokacije, smiješne, nove likove, ludu akciju, ova poznata CG animacija je savršen film za zajedničko uživanje najmlađih, ali i cijele obitelji.
+</description>
+            <origtitle>Paw Patrol: The Movie</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\7bdfdae0-b0f6-4273-ba05-0daefba151b9.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>PAW PATROL HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2204">
+            <title>Putovanje kroz sjećanja</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Nick Bannister (Hugh Jackman), privatni istražitelj uma, kreće se primamljivim ali mračnim svijetom prošlosti pomažući svojim klijentima da pristupe izgubljenim uspomenama. Živeći na rubu potonule obale Miamija, život mu se zauvijek mijenja kada preuzme novu klijenticu Mae (Rebecca Ferguson). Jednostavno pitanje izgubljenog i pronađenog postaje opasna opsesija. Dok se Bannister bori da pronađe istinu o Maeinom nestanku, otkriva nevjerojatnu zavjeru i na kraju mora odgovoriti na pitanje:  koliko daleko biste išli da zadržite one koje volite?
+</description>
+            <origtitle>Reminiscence</origtitle>
+            <duration>116</duration>
+            <year>2021</year>
+            <poster>assets\c1ebc551-e9ea-4c5e-9be8-cd61b078f4bf.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>REMINISCENCE HR.mp4</trailer>
+            <genre id="265" name="SF, avantura, misterij"/>
+        </movie>
+        <movie id="2205">
+            <title>Respect</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ove godine u kina nam stiže priča o jednoj od najvećih pjevačica svih vremena Arethi Franklin. R&amp;B pjevačicu glumi dobitnica nagrade Oscar, Jennifer Hudson, koju je Aretha osobno izabrala za tu ulogu.</description>
+            <origtitle>Respect</origtitle>
+            <duration>145</duration>
+            <year>2021</year>
+            <poster>assets\255d2909-597e-46d3-aae1-b7a948902c52.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>RESPECT HR.mp4</trailer>
+            <genre id="266" name="biografski, drama"/>
+        </movie>
+        <movie id="2206">
+            <title>Shang-Chi i legenda o deset prstenova</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Ekipa studija Marvel predstavlja još jedan superherojski akcijski spektakl o majstoru Kung fua čiji je otac član zloglasne organizacije Deset Prstenova koju smo upoznali kroz ranije Marvelove filmove.
+
+Od djetinjstva obučavan za majstora borilačkih vještina, Shang-Chi je prisiljen suočiti se s prošlošću za koju je mislio da je ostavio za sobom. 
+U svijetu se u međuvremenu pojavila nova velika prijetnja, a  Shang-Chi je ponovno uvučen u mrežu svog oca, šefa tajanstvene organizacije Deset prstenova koja se skrivala u sjeni MCU od samog početka.
+
+ </description>
+            <origtitle>Shang-Chi and the Legend of the Ten Rings</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\cf03aa80-8381-4b0d-a118-58c1bd339078.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>SHANG-CHI HRV 720.mp4</trailer>
+            <genre id="267" name="akcija, avantura, SF"/>
+        </movie>
+        <movie id="2207">
+            <title>Zloćudno</title>
+            <pubdate>2021-09-13T00:00:00</pubdate>
+            <description>Madison je paralizirana šokantnim vizijama užasnih ubojstava, a njezina se muka pogoršava kad otkrije da su ti snovi zapravo zastrašujuća stvarnost.
+
+Tijekom djetinjstva Madison je bila hospitalizirana zbog uznapredovale bolesti. Dok boravi u bolnici bude posvojena te nastavlja živjeti normalnim životom. Nekoliko desetljeća kasnije Madison ima svoju obitelj. Trauma koju je doživjela jedne večeri naglo pogorša stanje.
+
+Jako sam uzbuđen oko ovog filma. Ne mogu to niti opisati. Htio sam napraviti nešto žanrovski originalno, i drugačije od mojih prijašnjih radova, a opet da bude u duhu horor trilera uz koje sam odrastao, izjavio je redatelj. 
+</description>
+            <origtitle>Malignant</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\ab9c2fbb-e9a9-40e5-996d-da58077f2363.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>13.09.2021</date>
+            <trailer>MALIGNANT HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2208">
+            <title>Avanture obitelji Bigfoot - sink</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Nekoliko mjeseci nakon njihovog ponovnog susreta, životinje i ljudi žive sretno, a Adam se polako navikava na svoje nove moći. Sve dok ih njegov otac ponovo ne odluči napustiti kako bi spasio dolinu prljavih poslova naftne tvrtke X Tract. Shelly, Adam, Wilbur i Trapper odluče krenuti za njim i istražiti što se zapravo tamo događa ..</description>
+            <origtitle>Bigfoot Family</origtitle>
+            <duration>89</duration>
+            <year>2020</year>
+            <poster>assets\224f5a64-46d1-4b79-9a18-3c9e022165dc.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>BIGFOOT FAMILY HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2209">
+            <title>Candyman</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Oscarom nagrađeni Jordan Peele na velika platna donosi remake strašne urbane legende o Candymanu. Umjetnik otkriva legendu te koristi priče o Candymanu kao svoju inspiraciju za slikanje, no polagano gubi razum te na svom putu susreće smrt i destrukciju.
+
+Universal Pictures i Metro Goldwyn Mayer Pictures u suradnji s BRON Creative i producentskom kućom Jordana Peele Monkeypaw predstavljaju film koji je baziran na kultnom hororu iz 1992 – Candyman te kratkoj priči Clive Bakera – The Forbidden.
+
+Redateljsku palicu preuzela je mlada redateljska zvijezda u usponu Nia DaCosta koja je zajedno s Jordanom Peleeom napisala i scenarij. 
+
+Glumačku postavu predvode Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett te Colman Domingo.
+</description>
+            <origtitle>Candyman</origtitle>
+            <duration>91</duration>
+            <year>2021</year>
+            <poster>assets\be0f31db-d65f-45c8-a048-5510e72710fe.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>CANDYMAN HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2210">
+            <title>Escape Room 2: Bez izlaza</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Escape Room 2: Bez izlaza nastavak je velikog kino hita i psihološki triler koji je prestravio publiku diljem svijeta. U ovom dijelu, šestero se ljudi nehotice nađe zatvoreno u drugoj seriji soba za bijeg, polako otkrivajući ono što im je zajedničko za preživljavanje. Udružujući snage s dvoje izvorno preživjelih, ubrzo otkrivaju da su svi već igrali ovu igru.</description>
+            <origtitle>Escape Room: Tournament of Champions</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\177b296c-7c55-4b75-a068-fcb4e227f952.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>ESCAPE ROOM 2 HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2211">
+            <title>Free Guy</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <origtitle>Free Guy</origtitle>
+            <duration>115</duration>
+            <year>2020</year>
+            <poster>assets\7c9ad829-88be-44d9-87eb-b47356cc65b3.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>FREEGUY  HR novi.mp4</trailer>
+            <genre id="257" name="akcija, komedija"/>
+        </movie>
+        <movie id="2212">
+            <title>Kraljice kupona</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Radnja je temeljena na istinitoj priči o najvećoj prevari krivotvorenim kuponima u povijesti SAD-a. Kristen Bell je u ulozi nezadovoljne domaćice iz prigradskog naselja koja radi na „poduzetničkom” projektu osnivanja ilegalnog kluba s kuponima kojim ona i njezini partneri varaju velike prehrambene i ostale kompanije, dok štede milijune dolara članovima kluba. 
+</description>
+            <origtitle>Queenpins</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\1cbadbed-daec-48a7-9367-36a502f33481.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>QUEENPINS HRV 720.mp4</trailer>
+            <genre id="258" name="komedija"/>
+        </movie>
+        <movie id="2213">
+            <title>Krstarenje džunglom</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevjerojatnim ljekovitim svojstvima koje imaju moć promijeniti budućnosti medicine. U svojoj potrazi, ovaj dvojac će se susresti s bezbroj opasnosti i natprirodnih sila u varljivoj ljepoti bujne prašume. 
+</description>
+            <origtitle>Jungle Cruise</origtitle>
+            <duration>127</duration>
+            <year>2020</year>
+            <poster>assets\135659ad-ca24-437b-b388-09bd4f477e28.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>JUNGLECRUISE HR novi.mp4</trailer>
+            <genre id="259" name="akcija, avantura, komedija"/>
+        </movie>
+        <movie id="2214">
+            <title>Kuća noćnih mora</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Oporavljajući se od neočekivane smrti supruga, Beth (Rebecca Hall) ostaje sama u domu na jezeru koji joj je sagradio. Pokušava se tamo pribrati i ponovo započeti život bez njega - ali tada kreće prava noćna mora. Uznemirujuće vizije je mame sablasnom privlačnošću. Suprotno savjetima svojih prijatelja, Beth počinje kopati po suprugovim stvarima, žudeći za odgovorima. Ono što nalazi su tajne i čudne i uznemirujuće - misterij koji je odlučna otkriti. 
+</description>
+            <origtitle>Night House</origtitle>
+            <duration>107</duration>
+            <year>2021</year>
+            <poster>assets\9e7736bf-8b80-4e60-8604-71a2a724a645.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>NIGHT HOUSE HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2215">
+            <title>Murina</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Napeti odnos šesnaestogodišnje Julije i autoritativnog oca Ante počinje pucati kada u njihov dom na otoku stigne stari obiteljski prijatelj. Dok je otac zaokupljen pokušajima da s njim sklopi posao života, karizmatični gost Juliji otvara sve više prostora slobode što u njoj budi revolt prema roditeljima. Tijekom vikenda ispunjenog velikim očekivanjima, Julija uvlači obitelj u opasni vrtlog strasti i nasilja. Za film Murina redateljica Antoneta Alamat Kusijanović nagrađena je na Filmskom festivalu u Cannesu Zlatnom kamerom (Camera d’Or) kao najbolji debitant, a na Pulskom filmskom festivalu film je osvojio nagradu publike, Danica Ćurčić nagrađena je Zlatnom arenom za najbolju žensku ulogu te Antoneta Alamat Kusijanović Brezom za najboljeg debitanta.</description>
+            <origtitle>Murina</origtitle>
+            <duration>92</duration>
+            <year>2021</year>
+            <poster>assets\3ad4bfab-9b21-4e4b-9418-726d0f6fd6f3.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>MURINA HR.mp4</trailer>
+            <genre id="260" name="drama"/>
+        </movie>
+        <movie id="2216">
+            <title>Odred otpisanih: Nova misija</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Dobrodošli u pakao - a.k.a. Belle Reve, zatvor s najvišom stopom smrtnosti u SAD-u. Gdje se drže najgori super-negativci koji će učiniti sve da izađu - čak i pridružiti se supertajnoj, super-mračnoj misiji. Današnji tko preživi pričat će zadatak je okupiti Bloodsporta, Peacemakera, Captaina Boomeranga, Ratcatchera 2, Savanta, King Sharka, Blackguarda, Javelin i svima omiljenu Harley Quinna, naoružati ih i baciti (doslovno) na udaljeni, neprijateljski otok Corto Maltese. Kao i do sada, jedan njihov pogrešan potez i mrtvi su (bilo od ruku svojih protivnika, suigrača ili Waller). 
+</description>
+            <origtitle>The Suicide Squad</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\fe014c01-17d2-49bd-8799-6f5688a78f22.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>SUICIDE SQUAD HR.mp4</trailer>
+            <genre id="261" name="akcija, avantura"/>
+        </movie>
+        <movie id="2217">
+            <title>Petar Zecimir: Skok u avanturu - sink</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Neko vrijeme je prošlo otkako su Petar Zecimir i Tomica zakopali ratnu sjekiru, barem prividno. Biba, Tomica i zečevi osnovali su improviziranu obitelj, ali unatoč svim nastojanjima, Petar nikako da se riješi svoje nestašne reputacije. Tražeći avanturu izvan sigurnosti vlastitog vrta, Zecimir otkriva cijeli novi svijet u kojemu se njegovi nestašluci cijene, ali u trenutku kada njegova obitelj odluči sve riskirati kako bi ga pronašla, Petar mora odlučiti kakav zec želi biti.</description>
+            <origtitle>Peter Rabbit 2: The Runaway</origtitle>
+            <duration>93</duration>
+            <year>2021</year>
+            <poster>assets\e1cd8fa7-fdd8-4f6b-b221-c48a33ebfb61.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>PETER RABBIT 2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2218">
+            <title>Plaćenica</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Anna (Maggie Q) je najvještiji plaćeni ubojica na svijetu - kao dijete ju je spasio legendarni Moody (Samuel L. Jackson) i polako učio „obiteljskom poslu”. Kada čovjeka koji joj je bio poput oca i koji ju je naučio svemu što treba znati o povjerenju i preživljavanju brutalno ubiju, Anna se zavjetuje na osvetu. 
+</description>
+            <origtitle>The Protege</origtitle>
+            <duration>109</duration>
+            <year>2021</year>
+            <poster>assets\baf6686d-e072-4cba-a683-32bcd9018df8.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>PROTEGE HRV 720.mp4</trailer>
+            <genre id="263" name="akcija, triler"/>
+        </movie>
+        <movie id="2219">
+            <title>Poslije svega: Pad</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, ali sad su dospjeli u fazu u kojoj se izlaz ne nazire. Upravo dok se Tessa sprema donijeti jednu od važnijih odluka u životu, sve se promijeni. Hardin se još uvijek ne zna kontrolirati i sve oko nje počinje se raspadati. 
+Nikome ne može vjerovati, nitko nije onakav kakav se čini. 
+Ni obitelj, ni prijatelji.
+</description>
+            <origtitle>After We Fell</origtitle>
+            <duration>98</duration>
+            <year>2021</year>
+            <poster>assets\720bbb93-e43b-483a-9ae5-693c6134073c.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>AFTER WE FELL B HRV 720.mp4</trailer>
+            <genre id="264" name="ljubavna drama"/>
+        </movie>
+        <movie id="2220">
+            <title>Psići u ophodnji: Film - sink</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Psići prvi put napuštaju Adventure Bay - uvodeći nas u novi svijet Adventure Cityja. Kad psići saznaju da je Humdinger postao gradonačelnik prometne metropole, kreću u akciju kako bi spasili grad od njegove sebičnosti. Uz nove lokacije, smiješne, nove likove, ludu akciju, ova poznata CG animacija je savršen film za zajedničko uživanje najmlađih, ali i cijele obitelji.
+</description>
+            <origtitle>Paw Patrol: The Movie</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\5f6112f0-a111-4e7a-8026-c5a67ee85cc8.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>PAW PATROL HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2221">
+            <title>Putovanje kroz sjećanja</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Nick Bannister (Hugh Jackman), privatni istražitelj uma, kreće se primamljivim ali mračnim svijetom prošlosti pomažući svojim klijentima da pristupe izgubljenim uspomenama. Živeći na rubu potonule obale Miamija, život mu se zauvijek mijenja kada preuzme novu klijenticu Mae (Rebecca Ferguson). Jednostavno pitanje izgubljenog i pronađenog postaje opasna opsesija. Dok se Bannister bori da pronađe istinu o Maeinom nestanku, otkriva nevjerojatnu zavjeru i na kraju mora odgovoriti na pitanje:  koliko daleko biste išli da zadržite one koje volite?
+</description>
+            <origtitle>Reminiscence</origtitle>
+            <duration>116</duration>
+            <year>2021</year>
+            <poster>assets\078e2a79-a945-4659-b44a-ab4e91a722e3.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>REMINISCENCE HR.mp4</trailer>
+            <genre id="265" name="SF, avantura, misterij"/>
+        </movie>
+        <movie id="2222">
+            <title>Respect</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ove godine u kina nam stiže priča o jednoj od najvećih pjevačica svih vremena Arethi Franklin. R&amp;B pjevačicu glumi dobitnica nagrade Oscar, Jennifer Hudson, koju je Aretha osobno izabrala za tu ulogu.</description>
+            <origtitle>Respect</origtitle>
+            <duration>145</duration>
+            <year>2021</year>
+            <poster>assets\639e9117-2f75-46d8-a273-2ba7b36a6d08.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>RESPECT HR.mp4</trailer>
+            <genre id="266" name="biografski, drama"/>
+        </movie>
+        <movie id="2223">
+            <title>Shang-Chi i legenda o deset prstenova</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Ekipa studija Marvel predstavlja još jedan superherojski akcijski spektakl o majstoru Kung fua čiji je otac član zloglasne organizacije Deset Prstenova koju smo upoznali kroz ranije Marvelove filmove.
+
+Od djetinjstva obučavan za majstora borilačkih vještina, Shang-Chi je prisiljen suočiti se s prošlošću za koju je mislio da je ostavio za sobom. 
+U svijetu se u međuvremenu pojavila nova velika prijetnja, a  Shang-Chi je ponovno uvučen u mrežu svog oca, šefa tajanstvene organizacije Deset prstenova koja se skrivala u sjeni MCU od samog početka.
+
+ </description>
+            <origtitle>Shang-Chi and the Legend of the Ten Rings</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\681b3db1-3c94-470d-95c3-0faa7300a025.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>SHANG-CHI HRV 720.mp4</trailer>
+            <genre id="267" name="akcija, avantura, SF"/>
+        </movie>
+        <movie id="2224">
+            <title>Zloćudno</title>
+            <pubdate>2021-09-14T00:00:00</pubdate>
+            <description>Madison je paralizirana šokantnim vizijama užasnih ubojstava, a njezina se muka pogoršava kad otkrije da su ti snovi zapravo zastrašujuća stvarnost.
+
+Tijekom djetinjstva Madison je bila hospitalizirana zbog uznapredovale bolesti. Dok boravi u bolnici bude posvojena te nastavlja živjeti normalnim životom. Nekoliko desetljeća kasnije Madison ima svoju obitelj. Trauma koju je doživjela jedne večeri naglo pogorša stanje.
+
+Jako sam uzbuđen oko ovog filma. Ne mogu to niti opisati. Htio sam napraviti nešto žanrovski originalno, i drugačije od mojih prijašnjih radova, a opet da bude u duhu horor trilera uz koje sam odrastao, izjavio je redatelj. 
+</description>
+            <origtitle>Malignant</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\052ab686-1764-47b6-b0cc-0824dfd646d6.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>14.09.2021</date>
+            <trailer>MALIGNANT HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2225">
+            <title>Avanture obitelji Bigfoot - sink</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Nekoliko mjeseci nakon njihovog ponovnog susreta, životinje i ljudi žive sretno, a Adam se polako navikava na svoje nove moći. Sve dok ih njegov otac ponovo ne odluči napustiti kako bi spasio dolinu prljavih poslova naftne tvrtke X Tract. Shelly, Adam, Wilbur i Trapper odluče krenuti za njim i istražiti što se zapravo tamo događa ..</description>
+            <origtitle>Bigfoot Family</origtitle>
+            <duration>89</duration>
+            <year>2020</year>
+            <poster>assets\73533186-f88c-4b09-a9ff-27e114d98528.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>BIGFOOT FAMILY HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2226">
+            <title>Candyman</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Oscarom nagrađeni Jordan Peele na velika platna donosi remake strašne urbane legende o Candymanu. Umjetnik otkriva legendu te koristi priče o Candymanu kao svoju inspiraciju za slikanje, no polagano gubi razum te na svom putu susreće smrt i destrukciju.
+
+Universal Pictures i Metro Goldwyn Mayer Pictures u suradnji s BRON Creative i producentskom kućom Jordana Peele Monkeypaw predstavljaju film koji je baziran na kultnom hororu iz 1992 – Candyman te kratkoj priči Clive Bakera – The Forbidden.
+
+Redateljsku palicu preuzela je mlada redateljska zvijezda u usponu Nia DaCosta koja je zajedno s Jordanom Peleeom napisala i scenarij. 
+
+Glumačku postavu predvode Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett te Colman Domingo.
+</description>
+            <origtitle>Candyman</origtitle>
+            <duration>91</duration>
+            <year>2021</year>
+            <poster>assets\4b75508b-488c-424f-abe1-5ee3a43678b7.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>CANDYMAN HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2227">
+            <title>Escape Room 2: Bez izlaza</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Escape Room 2: Bez izlaza nastavak je velikog kino hita i psihološki triler koji je prestravio publiku diljem svijeta. U ovom dijelu, šestero se ljudi nehotice nađe zatvoreno u drugoj seriji soba za bijeg, polako otkrivajući ono što im je zajedničko za preživljavanje. Udružujući snage s dvoje izvorno preživjelih, ubrzo otkrivaju da su svi već igrali ovu igru.</description>
+            <origtitle>Escape Room: Tournament of Champions</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\28cffe4f-c813-4797-b853-2734ba2691b7.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>ESCAPE ROOM 2 HR.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2228">
+            <title>Free Guy</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <origtitle>Free Guy</origtitle>
+            <duration>115</duration>
+            <year>2020</year>
+            <poster>assets\f4e60560-e56f-4f58-a136-ae27c6e1e64b.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>FREEGUY  HR novi.mp4</trailer>
+            <genre id="257" name="akcija, komedija"/>
+        </movie>
+        <movie id="2229">
+            <title>Kraljice kupona</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Radnja je temeljena na istinitoj priči o najvećoj prevari krivotvorenim kuponima u povijesti SAD-a. Kristen Bell je u ulozi nezadovoljne domaćice iz prigradskog naselja koja radi na „poduzetničkom” projektu osnivanja ilegalnog kluba s kuponima kojim ona i njezini partneri varaju velike prehrambene i ostale kompanije, dok štede milijune dolara članovima kluba. 
+</description>
+            <origtitle>Queenpins</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\3974a55e-a66e-45f1-a71c-d0b4ed8d789e.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>QUEENPINS HRV 720.mp4</trailer>
+            <genre id="258" name="komedija"/>
+        </movie>
+        <movie id="2230">
+            <title>Krstarenje džunglom</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Lily putuje iz Londona u džunglu Amazone gdje angažira Franka da je vozi u svom brodiću niz rijeku. Lily je odlučna otkriti drevno stablo s nevjerojatnim ljekovitim svojstvima koje imaju moć promijeniti budućnosti medicine. U svojoj potrazi, ovaj dvojac će se susresti s bezbroj opasnosti i natprirodnih sila u varljivoj ljepoti bujne prašume. 
+</description>
+            <origtitle>Jungle Cruise</origtitle>
+            <duration>127</duration>
+            <year>2020</year>
+            <poster>assets\2ac3cdf1-6b39-4dca-9bda-2e77e6d83cc3.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>JUNGLECRUISE HR novi.mp4</trailer>
+            <genre id="259" name="akcija, avantura, komedija"/>
+        </movie>
+        <movie id="2231">
+            <title>Kuća noćnih mora</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Oporavljajući se od neočekivane smrti supruga, Beth (Rebecca Hall) ostaje sama u domu na jezeru koji joj je sagradio. Pokušava se tamo pribrati i ponovo započeti život bez njega - ali tada kreće prava noćna mora. Uznemirujuće vizije je mame sablasnom privlačnošću. Suprotno savjetima svojih prijatelja, Beth počinje kopati po suprugovim stvarima, žudeći za odgovorima. Ono što nalazi su tajne i čudne i uznemirujuće - misterij koji je odlučna otkriti. 
+</description>
+            <origtitle>Night House</origtitle>
+            <duration>107</duration>
+            <year>2021</year>
+            <poster>assets\64d9d582-482a-4e23-b2c4-398dbb670b5d.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>NIGHT HOUSE HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+        <movie id="2232">
+            <title>Murina</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Napeti odnos šesnaestogodišnje Julije i autoritativnog oca Ante počinje pucati kada u njihov dom na otoku stigne stari obiteljski prijatelj. Dok je otac zaokupljen pokušajima da s njim sklopi posao života, karizmatični gost Juliji otvara sve više prostora slobode što u njoj budi revolt prema roditeljima. Tijekom vikenda ispunjenog velikim očekivanjima, Julija uvlači obitelj u opasni vrtlog strasti i nasilja. Za film Murina redateljica Antoneta Alamat Kusijanović nagrađena je na Filmskom festivalu u Cannesu Zlatnom kamerom (Camera d’Or) kao najbolji debitant, a na Pulskom filmskom festivalu film je osvojio nagradu publike, Danica Ćurčić nagrađena je Zlatnom arenom za najbolju žensku ulogu te Antoneta Alamat Kusijanović Brezom za najboljeg debitanta.</description>
+            <origtitle>Murina</origtitle>
+            <duration>92</duration>
+            <year>2021</year>
+            <poster>assets\15f1a115-0f0c-4e70-9eb8-d8ec1a64ad06.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>MURINA HR.mp4</trailer>
+            <genre id="260" name="drama"/>
+        </movie>
+        <movie id="2233">
+            <title>Odred otpisanih: Nova misija</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Dobrodošli u pakao - a.k.a. Belle Reve, zatvor s najvišom stopom smrtnosti u SAD-u. Gdje se drže najgori super-negativci koji će učiniti sve da izađu - čak i pridružiti se supertajnoj, super-mračnoj misiji. Današnji tko preživi pričat će zadatak je okupiti Bloodsporta, Peacemakera, Captaina Boomeranga, Ratcatchera 2, Savanta, King Sharka, Blackguarda, Javelin i svima omiljenu Harley Quinna, naoružati ih i baciti (doslovno) na udaljeni, neprijateljski otok Corto Maltese. Kao i do sada, jedan njihov pogrešan potez i mrtvi su (bilo od ruku svojih protivnika, suigrača ili Waller). 
+</description>
+            <origtitle>The Suicide Squad</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\130408f0-e3bc-4c3e-9882-1e41c2f230f1.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>SUICIDE SQUAD HR.mp4</trailer>
+            <genre id="261" name="akcija, avantura"/>
+        </movie>
+        <movie id="2234">
+            <title>Petar Zecimir: Skok u avanturu - sink</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Neko vrijeme je prošlo otkako su Petar Zecimir i Tomica zakopali ratnu sjekiru, barem prividno. Biba, Tomica i zečevi osnovali su improviziranu obitelj, ali unatoč svim nastojanjima, Petar nikako da se riješi svoje nestašne reputacije. Tražeći avanturu izvan sigurnosti vlastitog vrta, Zecimir otkriva cijeli novi svijet u kojemu se njegovi nestašluci cijene, ali u trenutku kada njegova obitelj odluči sve riskirati kako bi ga pronašla, Petar mora odlučiti kakav zec želi biti.</description>
+            <origtitle>Peter Rabbit 2: The Runaway</origtitle>
+            <duration>93</duration>
+            <year>2021</year>
+            <poster>assets\684c9932-ab2d-47a3-9efb-28b3533650e8.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>PETER RABBIT 2 HR.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2235">
+            <title>Plaćenica</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Anna (Maggie Q) je najvještiji plaćeni ubojica na svijetu - kao dijete ju je spasio legendarni Moody (Samuel L. Jackson) i polako učio „obiteljskom poslu”. Kada čovjeka koji joj je bio poput oca i koji ju je naučio svemu što treba znati o povjerenju i preživljavanju brutalno ubiju, Anna se zavjetuje na osvetu. 
+</description>
+            <origtitle>The Protege</origtitle>
+            <duration>109</duration>
+            <year>2021</year>
+            <poster>assets\36bd1d04-6c48-4101-917c-b661a015d1fb.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>PROTEGE HRV 720.mp4</trailer>
+            <genre id="263" name="akcija, triler"/>
+        </movie>
+        <movie id="2236">
+            <title>Poslije svega: Pad</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, ali sad su dospjeli u fazu u kojoj se izlaz ne nazire. Upravo dok se Tessa sprema donijeti jednu od važnijih odluka u životu, sve se promijeni. Hardin se još uvijek ne zna kontrolirati i sve oko nje počinje se raspadati. 
+Nikome ne može vjerovati, nitko nije onakav kakav se čini. 
+Ni obitelj, ni prijatelji.
+</description>
+            <origtitle>After We Fell</origtitle>
+            <duration>98</duration>
+            <year>2021</year>
+            <poster>assets\cde7abfa-a20d-4384-9a09-05474b13491a.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>AFTER WE FELL B HRV 720.mp4</trailer>
+            <genre id="264" name="ljubavna drama"/>
+        </movie>
+        <movie id="2237">
+            <title>Psići u ophodnji: Film - sink</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Psići prvi put napuštaju Adventure Bay - uvodeći nas u novi svijet Adventure Cityja. Kad psići saznaju da je Humdinger postao gradonačelnik prometne metropole, kreću u akciju kako bi spasili grad od njegove sebičnosti. Uz nove lokacije, smiješne, nove likove, ludu akciju, ova poznata CG animacija je savršen film za zajedničko uživanje najmlađih, ali i cijele obitelji.
+</description>
+            <origtitle>Paw Patrol: The Movie</origtitle>
+            <duration>88</duration>
+            <year>2021</year>
+            <poster>assets\106ead23-cead-4b2b-978e-e5da0577a753.jpg</poster>
+            <rating>0</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>PAW PATROL HRV 720.mp4</trailer>
+            <genre id="262" name="animirani"/>
+        </movie>
+        <movie id="2238">
+            <title>Putovanje kroz sjećanja</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Nick Bannister (Hugh Jackman), privatni istražitelj uma, kreće se primamljivim ali mračnim svijetom prošlosti pomažući svojim klijentima da pristupe izgubljenim uspomenama. Živeći na rubu potonule obale Miamija, život mu se zauvijek mijenja kada preuzme novu klijenticu Mae (Rebecca Ferguson). Jednostavno pitanje izgubljenog i pronađenog postaje opasna opsesija. Dok se Bannister bori da pronađe istinu o Maeinom nestanku, otkriva nevjerojatnu zavjeru i na kraju mora odgovoriti na pitanje:  koliko daleko biste išli da zadržite one koje volite?
+</description>
+            <origtitle>Reminiscence</origtitle>
+            <duration>116</duration>
+            <year>2021</year>
+            <poster>assets\7e02b7da-05ac-4bad-8f06-bb6c0ef9c7c2.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>REMINISCENCE HR.mp4</trailer>
+            <genre id="265" name="SF, avantura, misterij"/>
+        </movie>
+        <movie id="2239">
+            <title>Respect</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>&lt;div style="text-align: justify;"&gt;Ove godine u kina nam stiže priča o jednoj od najvećih pjevačica svih vremena Arethi Franklin. R&amp;B pjevačicu glumi dobitnica nagrade Oscar, Jennifer Hudson, koju je Aretha osobno izabrala za tu ulogu.</description>
+            <origtitle>Respect</origtitle>
+            <duration>145</duration>
+            <year>2021</year>
+            <poster>assets\dba5c731-d1a6-49bc-8933-c4d9722a4bcb.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>RESPECT HR.mp4</trailer>
+            <genre id="266" name="biografski, drama"/>
+        </movie>
+        <movie id="2240">
+            <title>Shang-Chi i legenda o deset prstenova</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Ekipa studija Marvel predstavlja još jedan superherojski akcijski spektakl o majstoru Kung fua čiji je otac član zloglasne organizacije Deset Prstenova koju smo upoznali kroz ranije Marvelove filmove.
+
+Od djetinjstva obučavan za majstora borilačkih vještina, Shang-Chi je prisiljen suočiti se s prošlošću za koju je mislio da je ostavio za sobom. 
+U svijetu se u međuvremenu pojavila nova velika prijetnja, a  Shang-Chi je ponovno uvučen u mrežu svog oca, šefa tajanstvene organizacije Deset prstenova koja se skrivala u sjeni MCU od samog početka.
+
+ </description>
+            <origtitle>Shang-Chi and the Legend of the Ten Rings</origtitle>
+            <duration>132</duration>
+            <year>2021</year>
+            <poster>assets\0ec56a40-c65e-4190-967b-53afa8ebbd18.jpg</poster>
+            <rating>12</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>SHANG-CHI HRV 720.mp4</trailer>
+            <genre id="267" name="akcija, avantura, SF"/>
+        </movie>
+        <movie id="2241">
+            <title>Zloćudno</title>
+            <pubdate>2021-09-15T00:00:00</pubdate>
+            <description>Madison je paralizirana šokantnim vizijama užasnih ubojstava, a njezina se muka pogoršava kad otkrije da su ti snovi zapravo zastrašujuća stvarnost.
+
+Tijekom djetinjstva Madison je bila hospitalizirana zbog uznapredovale bolesti. Dok boravi u bolnici bude posvojena te nastavlja živjeti normalnim životom. Nekoliko desetljeća kasnije Madison ima svoju obitelj. Trauma koju je doživjela jedne večeri naglo pogorša stanje.
+
+Jako sam uzbuđen oko ovog filma. Ne mogu to niti opisati. Htio sam napraviti nešto žanrovski originalno, i drugačije od mojih prijašnjih radova, a opet da bude u duhu horor trilera uz koje sam odrastao, izjavio je redatelj. 
+</description>
+            <origtitle>Malignant</origtitle>
+            <duration>111</duration>
+            <year>2021</year>
+            <poster>assets\294dc369-b54b-41f1-bcb6-422e88eff448.jpg</poster>
+            <rating>15</rating>
+            <booking>https://karte.blitz-cinestar.hr</booking>
+            <date>15.09.2021</date>
+            <trailer>MALIGNANT HRV 720.mp4</trailer>
+            <genre id="256" name="horor"/>
+        </movie>
+    </movies>
+</moviearchive>
